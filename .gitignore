@@ -1,2 +1,4 @@
-!*.py
-!*.sh
+!hierchialcluster*.py
+!hierchialcluster*.sh
+!graphbased/*.sh
+!graphbased/*.py
