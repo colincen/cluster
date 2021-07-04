@@ -1,4 +1,3 @@
-!hierchialcluster*.py
-!hierchialcluster*.sh
-!graphbased/*.sh
-!graphbased/*.py
+*.txt
+*.csv
+*.png
