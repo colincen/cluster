@@ -7,10 +7,10 @@ import torchtext
 import numpy as np 
 
 
-datadir = '/home/sh/data/coachdata/snips/'
-glovepath = '/home/sh/data'
-charNgrampath = '/home/sh/data'
-bertpath = '/home/sh/bert-base-uncased'
+datadir = '/home/shenhao/data/coachdata/snips/'
+glovepath = '/home/shenhao/data'
+charNgrampath = '/home/shenhao/data'
+bertpath = '/home/shenhao/bert-base-uncased'
 
 domain_set = ["AddToPlaylist", "BookRestaurant", "GetWeather",\
      "PlayMusic", "RateBook", "SearchCreativeWork", "SearchScreeningEvent"]

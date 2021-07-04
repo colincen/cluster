@@ -1,0 +1,19 @@
+INFO - 07/03/21 23:02:28 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/03/21 23:02:28 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 20
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/03/21 23:02:28 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     

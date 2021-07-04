@@ -1,0 +1,2028 @@
+entity_name
+be yourself tonight	1	9.024712
+the second three years	1	8.800767
+spanish harlem incident	1	8.8423
+nothing remains the same	1	9.319634
+checkmate	5	8.410695
+so far	5	8.990138
+recalled to life	1	8.495732
+madman	2	8.4706745
+gn	5	9.305371
+baby lemonade	1	8.617563
+el choclo	1	9.207553
+the secret wars	1	8.815398
+always	2	8.50021
+the magnificent tree	1	8.068648
+super turnt up	1	8.778112
+hopeful	2	8.33132
+happy holidays	1	8.589502
+perfect sense part i	1	8.606733
+sir john winston ono lennon	1	9.178073
+steel guitar rag	5	9.017468
+marching band	5	10.62883
+hold tight	1	9.837603
+the orange and the green	1	8.987094
+bill evans	1	7.8955984
+potje met vet	1	8.381122
+in the mood	1	8.0685005
+nightmares that surface from shallow sleep	1	8.501862
+if i could be with you	1	9.441945
+no mystery	5	8.394832
+coming back to life	1	9.176256
+welcome to the cruel world	1	10.3482
+showcase in a suitcase	1	8.766195
+bad news	5	8.423009
+por una cabeza	1	9.325663
+wreck of the tennessee gravy train	1	9.116038
+jack be nimble	1	8.502826
+back porch spirituals	1	8.494526
+omnipresent	1	8.905528
+on with the show	1	8.711308
+people take pictures of each other	1	9.601035
+rev-raptor	1	9.338156
+theater	5	8.382934
+of rivers and religion	1	8.763041
+psycho	5	8.951296
+ryō yamazaki	1	10.110459
+ghost on the dance floor	1	9.315847
+the stars and stripes forever	1	10.01936
+must b 21	1	9.395648
+2012 zwanzig zwölf	1	9.3880005
+do you want to build a snowman	1	9.701798
+
+playlist
+women of r&b	1	10.0022
+country hits	1	9.700749
+coffee table jazz	1	8.375993
+top 100 rock tracks on spotify	1	9.896844
+new metal tracks	5	8.569152
+street dance	5	9.580686
+irish folk – jigs & reels	1	8.333849
+thrash attack	5	8.347765
+humor	5	8.8933935
+road trip	5	8.704663
+classical moments in movies	1	8.578787
+workout	2	8.63975
+get going	1	8.765211
+r&b party classics	1	10.124675
+acoustic soul	1	8.393715
+independent music monday	5	9.13651
+ultimate 90s	5	8.781043
+one love	1	9.290756
+just smile	5	9.007092
+indiespain	1	8.649707
+get your mind right	1	9.389441
+fresh finds fire emoji	1	8.401358
+black sabbath the ozzy years	1	10.348055
+enamorándose	1	7.472739
+rocksteady	1	9.903735
+metal xplorer	1	8.639449
+in residence metal hammer episode 6	1	8.090803
+pre-party	1	11.79965
+nature noise	1	8.636412
+pura vida	1	9.509133
+décadas	1	8.699073
+new metal tracks	5	8.569152
+novedades pop	1	8.809534
+80 s party	1	9.10443
+pura vida	1	9.509133
+metal party	5	9.545323
+nu metal	5	9.495035
+evening acoustic	5	7.920473
+50 clásicos	1	8.47904
+feel good dinner	1	8.687992
+the metalsucks playlist	1	9.138681
+this is racionais mc s	1	8.796314
+disney	5	8.5556345
+workday – pop	1	7.7998147
+spanish beat	5	7.9259167
+this is earth wind & fire	1	8.805135
+frescura indie	1	8.00942
+us latin top 50	1	10.313183
+80s classic hits	1	9.749167
+diarios de bicicleta	1	9.606901
+
+artist
+apostolos nikolaidis	1	10.229715
+claude vonstroke	1	7.9471135
+sam sparro	1	7.7871895
+don sebesky	1	7.5979605
+alain caron	1	8.669405
+paul wright	1	8.2655735
+marianne faithfull	1	8.807585
+signe anderson	1	9.066625
+michael schenker	1	8.372479
+michiru yamane	1	10.60811
+eddie vinson	1	8.178078
+fei yu ching	1	9.079274
+lee mellor	1	7.568077
+tina cousins	5	7.980385
+amii stewart	1	8.495654
+dawn richard	5	7.7701845
+el pavo dustin	1	9.326865
+paula abdul	1	10.297443
+tommy flanagan	1	9.181414
+sammy cahn	1	9.439093
+dj ozma	1	8.859536
+takahito eguchi	1	9.592823
+joseph genaro	1	7.925608
+roberto carlos	1	9.820562
+morton downey	1	8.095497
+rod argent	5	8.469142
+mila islam	1	8.957465
+taktloss	1	8.773323
+origa	5	8.396556
+jerry dixon	1	8.157985
+boris grebenchtchikov	1	8.630854
+david silveria	1	7.2421947
+francesco de gregori	1	9.405409
+marty friedman	1	9.258731
+ebi	5	8.526141
+sweet emma barrett	5	8.122516
+faultline	5	7.959461
+marion elise raven	5	7.567839
+frank beard	1	7.7595396
+rockwell	5	8.837923
+jil y creek	1	8.175288
+harel skaat	1	9.269846
+hart wand	5	8.132685
+paul landers	1	8.601101
+paulinho da viola	1	10.526114
+geddy lee	1	10.190394
+keren peles	1	10.249966
+andy silvester	1	7.399023
+scott lafaro	1	8.129554
+tony rombola	1	7.58388
+
+playlist_owner
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+gayle s	1	8.186401
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+hallie s	1	9.476914
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+isabelle s	1	8.728559
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+my	2	8.711804
+
+music_item
+track	5	8.961572
+tune	2	8.59785
+ep	5	9.276146
+ballad	2	8.518095
+tune	2	8.59785
+song	5	8.78913
+artist	6	9.562241
+chant	2	9.1935
+song	5	8.78913
+song	5	8.78913
+track	5	8.961572
+tune	2	8.59785
+chant	2	9.1935
+soundtrack	5	8.595939
+track	5	8.961572
+song	5	8.78913
+tune	2	8.59785
+track	5	8.961572
+soundtrack	5	8.595939
+soundtrack	5	8.595939
+tune	2	8.59785
+track	5	8.961572
+song	5	8.78913
+song	5	8.78913
+tune	2	8.59785
+album	5	8.80573
+ep	5	9.276146
+song	5	8.78913
+track	5	8.961572
+tune	2	8.59785
+ep	5	9.276146
+album	5	8.80573
+artist	6	9.562241
+artist	6	9.562241
+track	5	8.961572
+track	5	8.961572
+melody	2	8.550901
+chant	2	9.1935
+tune	2	8.59785
+tune	2	8.59785
+song	5	8.78913
+theme	5	9.415745
+album	5	8.80573
+song	5	8.78913
+artist	6	9.562241
+album	5	8.80573
+theme	5	9.415745
+tune	2	8.59785
+chant	2	9.1935
+album	5	8.80573
+
+party_size_number
+8	3	8.889077
+8	3	8.889077
+eight	3	8.690393
+one	3	9.004727
+3	3	8.906911
+10	3	8.861427
+six	3	8.733104
+3	3	8.906911
+3	3	8.906911
+8	3	8.889077
+4	3	8.778585
+eight	3	8.690393
+ten	3	8.715455
+seven	3	8.758927
+eight	3	8.690393
+two	3	9.226468
+9	3	8.834395
+9	3	8.834395
+1	3	8.898421
+4	3	8.778585
+2	3	8.909331
+3	3	8.906911
+four	3	8.8240385
+8	3	8.889077
+ten	3	8.715455
+seven	3	8.758927
+6	3	8.828346
+8	3	8.889077
+3	3	8.906911
+1	3	8.898421
+3	3	8.906911
+six	3	8.733104
+5	3	8.714866
+4	3	8.778585
+four	3	8.8240385
+two	3	9.226468
+nine	3	8.822319
+seven	3	8.758927
+4	3	8.778585
+10	3	8.861427
+six	3	8.733104
+2	3	8.909331
+10	3	8.861427
+2	3	8.909331
+four	3	8.8240385
+two	3	9.226468
+five	3	8.765581
+9	3	8.834395
+nine	3	8.822319
+10	3	8.861427
+
+state
+minnesota	5	8.889867
+al	2	8.971904
+colorado	5	8.755123
+washington	5	8.6060505
+american samoa	1	9.171074
+illinois	5	8.560107
+sd	5	8.827046
+fl	5	9.403177
+nebraska	5	8.91277
+sc	5	9.208281
+maryland	5	8.8306875
+maine	5	8.743799
+md	5	8.841848
+nj	5	9.057065
+maine	5	8.743799
+wisconsin	5	9.107965
+ga	5	9.622591
+ri	2	8.592936
+ny	5	9.089983
+ak	2	8.834321
+texas	5	9.163613
+north dakota	1	9.289755
+ms	5	9.092295
+wisconsin	5	9.107965
+or	2	9.232076
+maryland	5	8.8306875
+fm	5	9.000611
+sc	5	9.208281
+alaska	5	8.457966
+north dakota	1	9.289755
+south carolina	1	8.789107
+nh	5	9.380465
+nd	5	9.708568
+fl	5	9.403177
+wy	5	9.23765
+hawaii	5	8.511666
+ohio	5	8.953051
+kentucky	6	9.86456
+fl	5	9.403177
+tx	5	9.504658
+vt	5	8.987125
+mh	5	9.21537
+kentucky	6	9.86456
+ks	5	9.245733
+oh	2	8.663264
+kansas	5	8.800416
+nebraska	5	8.91277
+al	2	8.971904
+md	5	8.841848
+mississippi	5	8.666926
+
+restaurant_type
+restaurant	5	8.481397
+restaurant	5	8.481397
+churrascaria	1	8.5694275
+brasserie	1	10.365434
+bar	5	8.653854
+restaurant	5	8.481397
+brasserie	1	10.365434
+tavern	5	8.505046
+brasserie	1	10.365434
+bistro	5	8.418304
+restaurant	5	8.481397
+restaurant	5	8.481397
+cafe	5	8.37363
+restaurant	5	8.481397
+brasserie	1	10.365434
+pub	5	8.895133
+gastropub	1	8.224084
+oyster bar	5	8.859669
+restaurant	5	8.481397
+bar	5	8.653854
+restaurant	5	8.481397
+restaurant	5	8.481397
+restaurant	5	8.481397
+cafe	5	8.37363
+restaurant	5	8.481397
+restaurant	5	8.481397
+restaurant	5	8.481397
+osteria	1	9.042434
+brasserie	1	10.365434
+brasserie	1	10.365434
+tavern	5	8.505046
+diner	5	8.273456
+bar	5	8.653854
+pub	5	8.895133
+food court	5	8.968788
+food court	5	8.968788
+restaurant	5	8.481397
+restaurant	5	8.481397
+joint	2	8.352537
+bakery	5	8.36324
+restaurant	5	8.481397
+restaurant	5	8.481397
+restaurant	5	8.481397
+bar	5	8.653854
+restaurant	5	8.481397
+brasserie	1	10.365434
+restaurant	5	8.481397
+tavern	5	8.505046
+restaurant	5	8.481397
+restaurant	5	8.481397
+
+timeRange
+11/1/2033	1	9.901583
+1 pm	1	9.313761
+nov the 6th	1	9.012677
+now	5	8.857967
+may the 10th	1	9.490124
+four am	1	9.017297
+4 seconds from now	1	9.019274
+4 and a half months from now	1	9.1737
+now	5	8.857967
+midday	5	8.185167
+in six years	1	8.756524
+sep 23 2023	1	9.169612
+nine	3	8.822319
+four pm	1	9.745688
+assumption of mary	1	11.435148
+now	5	8.857967
+1 minute from now	1	9.003887
+dec 13	1	8.837186
+0 o clock	1	9.4865055
+8 am	1	9.623846
+eleven hours from now	1	9.256184
+nov the 21st	1	9.3589115
+feb the seventh	1	8.857376
+next month	1	9.50698
+two a m	1	9.708374
+morning	5	8.4703865
+sep the fifth 2030	1	8.077464
+october the nineteenth 2026	1	8.557174
+ten pm	1	9.936196
+oct 10	1	8.890445
+october fifth	1	8.719405
+in 1 minute	1	10.965773
+ten	3	8.715455
+midday	5	8.185167
+4 am	1	9.415931
+next year	1	9.839497
+tonight	5	8.878117
+today	5	8.442974
+in twenty minutes	1	9.2697735
+now	5	8.857967
+in 1 second	1	8.501506
+in 55 weeks	1	9.432246
+midday	5	8.185167
+10:21:20	1	10.396498
+this month	1	8.368881
+september the eighteenth	1	9.165781
+11 pm	1	9.336028
+morning	5	8.4703865
+21 weeks from now	1	8.9998665
+september 22nd 2017	1	8.219769
+
+city
+cotati	1	8.135332
+finland	6	9.94591
+sierraville	1	9.146899
+milton-freewater	1	9.415535
+osgood	1	7.7456098
+virginia city	1	8.577964
+seagraves	1	9.5277815
+patricia	5	8.366886
+westfield	2	8.363793
+lost creek	1	9.011428
+kearney	1	8.502449
+econfina	1	8.251261
+appleby	1	7.857411
+refugio	1	8.81756
+indian creek village	1	8.695553
+hematite	1	9.45209
+waxhaw	5	8.193198
+dresbach	1	10.805265
+greenback	5	8.913778
+macclenny	1	8.568144
+meers	1	9.027389
+osyka	1	8.141003
+johnson creek	1	8.325589
+sunset hills	1	9.00982
+queen anne	1	10.101667
+hillview	1	8.941635
+michigantown	1	8.171859
+horatio	5	9.412144
+south farmingdale	1	8.841736
+saint bonaventure	1	10.305288
+gearhart	1	7.915013
+lago vista	1	9.7892685
+culver city	1	9.66133
+loup city	1	8.819549
+east prairie	1	8.126363
+grisdale	1	9.077741
+hamel	1	7.9713926
+gober	5	8.000638
+meadow vale	1	8.651378
+loyalhanna	5	7.8263974
+deer river	1	9.258358
+westernport	1	9.052701
+fox chapel	5	8.706621
+princeton junction	1	8.215355
+wildorado	1	7.7035794
+bradner	1	8.282768
+north wolcott	1	8.461988
+hybla valley	1	8.51639
+three points	4	10.000921
+oneonta	1	8.416479
+
+party_size_description
+kirsten price audra and i	1	9.05225
+phyllis ward and veronica	1	8.928752
+me and my wife	1	9.03778
+teresa and elnora	1	9.042689
+casey and i	1	8.575503
+milagros and i	1	8.191476
+my granddaughter and i	1	8.682963
+joanna and ella	1	9.205324
+me geneva and wilda	1	8.384173
+valarie mari and i	1	8.225726
+my step aunt and i	1	9.055354
+me rachelle and wilda	1	7.996852
+my girlfriend and i	1	8.465912
+antoinette and i	1	8.633923
+my niece and i	1	8.657442
+me and my team	1	8.8756275
+me and my mommy	1	9.553865
+my step father and i	1	8.954556
+marcella erma and leanne rivera	1	9.367669
+casey chavez lucinda and karina	1	8.846155
+my great grandfather and i	1	9.170273
+ebony and yolanda	1	9.189858
+sherry and concepcion	1	9.46224
+my gf and i	1	8.288253
+jessie dale wright and lupe	1	9.206383
+me and my best friend	1	9.3066635
+me marva and barbara	1	8.913584
+my ex husband and i	1	8.596637
+me and my nieces	1	8.653929
+vickie and caitlin	1	9.1854315
+my friends and i	1	8.353829
+rita and brenda	1	9.572039
+me edna and alyson	1	8.586456
+ava and i	1	8.887166
+me and my step brother	1	9.196626
+my brother in law and i	1	8.690694
+gretchen trisha and amber	1	9.429261
+me and my grandfather	1	8.710533
+lois effie price and i	1	8.919403
+cherie and josephine	1	9.245181
+my babies and i	1	9.119258
+my parents and i	1	8.42531
+deloris ester and petra alvarez	1	9.140113
+velma and gloria	1	9.662883
+madeleine keisha and clara alvarez	1	8.624772
+me and my baby	1	9.593044
+nadine sherrie and i	1	8.75504
+nona gray myrtle and alison	1	9.15289
+me and my kids	1	9.320992
+tanisha lorena and juliana	1	9.889146
+
+sort
+top	5	8.916455
+top-rated	5	8.9842415
+last	5	8.54334
+top twenty	5	9.33003
+best	2	8.875442
+newest	2	8.78026
+latest	5	8.655438
+newest	2	8.78026
+most popular	5	9.353653
+top-rated	5	8.9842415
+top	5	8.916455
+highly rated	5	8.86735
+new	5	8.72928
+highly rated	5	8.86735
+top	5	8.916455
+newest	2	8.78026
+best	2	8.875442
+top 50	5	8.966701
+most popular	5	9.353653
+last	5	8.54334
+popular	5	8.361018
+greatest	2	8.892013
+best	2	8.875442
+most popular	5	9.353653
+newest	2	8.78026
+top twenty	5	9.33003
+best	2	8.875442
+top-rated	5	8.9842415
+highly rated	5	8.86735
+top-twenty	5	9.718027
+latest	5	8.655438
+highly rated	5	8.86735
+highly rated	5	8.86735
+popular	5	8.361018
+good	5	8.239424
+greatest	2	8.892013
+popular	5	8.361018
+most popular	5	9.353653
+latest	5	8.655438
+latest	5	8.655438
+top	5	8.916455
+highly rated	5	8.86735
+top-rated	5	8.9842415
+good	5	8.239424
+highly rated	5	8.86735
+highly rated	5	8.86735
+highly rated	5	8.86735
+top-rated	5	8.9842415
+top-rated	5	8.9842415
+best	2	8.875442
+
+served_dish
+pho	1	9.19423
+noodle	5	8.887604
+saucisse	1	8.633065
+crab cake	1	9.451642
+frybread	5	7.643622
+hot dog	1	8.683454
+german chocolate cake	1	8.962306
+hot chicken	1	8.681764
+pizzas	5	8.983832
+smelt	1	9.135663
+surf and turf	1	11.496066
+coleslaw	1	8.056323
+souvlaki	1	9.003119
+blini	5	8.509833
+cupcakes	1	9.439138
+strolghino	1	8.35976
+chicken fried bacon	1	10.592619
+ribs	5	8.939151
+baba au rhum	1	8.403222
+testaroli	1	8.804275
+italian-american cuisine	1	10.354243
+macaroni	1	10.160053
+verdure	1	9.986656
+far breton	5	8.4261
+pasta	2	8.754506
+foie gras	1	10.013688
+potato salad	1	10.036598
+apple butter	1	8.704788
+tourte	1	8.144034
+tuna casserole	1	9.766431
+donuts	1	10.030431
+steak sauce	1	8.989084
+tarte tatin	1	9.115034
+fish chips	1	8.770946
+cupcake	1	8.15905
+acquacotta	1	9.162899
+tortano	1	8.342335
+crab cake	1	9.451642
+lobster roll	1	8.859538
+green bean casserole	1	11.134078
+bagels	1	8.651226
+desserts	5	9.29022
+cheese fries	1	9.762118
+trottole	1	8.180396
+ribs	5	8.939151
+chichi	1	9.36241
+molecular gastronomy	1	9.687106
+ice cream	1	9.415491
+green bean casserole	1	11.134078
+chicken and waffles	1	10.270573
+
+spatial_relation
+nearby	5	8.604271
+not far	5	9.3123
+close	2	8.280084
+in the area	1	8.226793
+in the neighbourhood	1	8.603807
+around here	5	9.102384
+nearest	2	8.499127
+within walking distance	1	10.5220995
+closest	2	8.512093
+within the same area	1	8.66587
+in the same area	1	8.622727
+closest	2	8.512093
+close	2	8.280084
+distant	2	8.397088
+neighboring	2	8.858702
+neighboring	2	8.858702
+nearby	5	8.604271
+within the same area	1	8.66587
+in the neighborhood	1	8.727286
+close by	5	9.050582
+closest	2	8.512093
+in the neighborhood	1	8.727286
+far	5	8.495404
+closest	2	8.512093
+within walking distance	1	10.5220995
+in the neighborhood	1	8.727286
+closest	2	8.512093
+nearest	2	8.499127
+within walking distance	1	10.5220995
+close-by	5	9.771273
+in the area	1	8.226793
+nearest	2	8.499127
+close by	5	9.050582
+far	5	8.495404
+nearest	2	8.499127
+nearest	2	8.499127
+nearest	2	8.499127
+closest	2	8.512093
+close by	5	9.050582
+distant	2	8.397088
+nearest	2	8.499127
+area	5	8.388854
+closest	2	8.512093
+closest	2	8.512093
+not	2	8.841677
+close by	5	9.050582
+nearest	2	8.499127
+nearest	2	8.499127
+closest	2	8.512093
+nearby	5	8.604271
+
+poi
+union city	1	8.83606
+allentown	1	10.256172
+lawrence st	1	9.289458
+hoyt st	1	8.617602
+ocean grove	1	7.957866
+my hostel	1	8.602685
+our house	1	8.883085
+downtown	5	8.89824
+metropolitan borough of lambeth	1	10.9671955
+robin s hotel	1	8.1751795
+saratoga av	1	8.727624
+in town	1	8.319696
+districts of sweden	1	9.710198
+tia s house	1	8.132807
+tremont av	1	7.8210115
+mcsherrystown	1	8.483659
+broadway-lafayette st	1	9.783841
+your colleague s college	1	7.9783926
+sterling st	1	8.885614
+cortelyou rd	1	9.13211
+municipal borough of farnworth	1	10.401477
+home	1	10.339078
+downtown	5	8.89824
+wilson av	1	8.705525
+fleetwood	5	9.666519
+downtown	5	8.89824
+thompson	5	8.041592
+northvale	1	9.078468
+neighborhood	5	8.786734
+downtown	5	8.89824
+hackney	2	8.50888
+in town	1	8.319696
+livonia av	1	9.091352
+neighborhood	5	8.786734
+88th st-boyd av	1	9.034355
+their step sister s workplace	1	8.320632
+turtle creek	1	8.776834
+woodcliff lake	1	8.802901
+bedford park blvd-lehman college	1	10.506087
+neighborhood	5	8.786734
+pauline s place	1	8.489749
+grant av	1	8.551105
+metropolitan borough of bethnal green	1	11.402778
+newtown	5	8.833566
+sutphin blvd	1	9.976713
+in town	1	8.319696
+103rd st	1	9.771636
+135th st	1	9.665417
+neighborhood	5	8.786734
+downtown	5	8.89824
+
+restaurant_name
+venetian theatre	1	8.127065
+the vortex bar & grill	1	9.800752
+the meatball shop	1	8.55749
+yogurt mountain	1	9.255579
+james d conrey house	1	8.710013
+cafe rouge	5	8.589358
+bobcat bite	1	8.807137
+clinton street baking company & restaurant	1	8.627473
+prospect of whitby	1	8.288052
+john pearson soda works	1	8.4905205
+bullfeathers	1	8.077541
+rustic inn	5	7.8992553
+the mustard seed	5	8.609647
+the triple door	1	8.259214
+can fabes	1	8.03132
+the kegs drive-in	1	9.873938
+the apple pan	5	7.8693995
+tavern on the green	1	9.2764
+loveless cafe	1	7.7049985
+the cubby bear	1	8.896011
+coney i-lander	1	9.215645
+city tavern	5	8.78391
+laurelhurst theater	1	8.111372
+the pump room chicago	1	8.092106
+atlantic grill	1	8.218042
+wwe the world	1	10.099548
+baker s keyboard lounge	1	8.098353
+the original soup man	1	8.121395
+rustic inn	5	7.8992553
+light horse tavern	5	8.264058
+freight house	5	9.701128
+carter house inn	5	8.354888
+settha palace hotel	1	8.425215
+j g melon	1	8.868674
+cityzen	5	8.244075
+helianthushof	1	8.081182
+space aliens grill & bar	1	8.896412
+black cat bar	1	8.361632
+national coney island	1	8.842669
+dinner by heston blumenthal	1	7.8813486
+colony	2	9.029825
+boon brick store	1	8.320109
+laurie beechman theatre	1	8.652072
+the big chill cafe	1	8.162598
+the fort	5	8.506482
+clinton street baking company & restaurant	1	8.627473
+tartine	5	8.512428
+marlton circle	1	7.6782923
+fish express	5	7.781036
+union oyster house	1	8.543324
+
+country
+namibia	5	9.783206
+mayotte	1	8.748634
+falkland islands	1	9.844137
+saint vincent and the grenadines	1	11.928015
+macao	1	9.030823
+saudi arabia	1	10.597533
+bahamas	6	9.7610235
+myanmar	5	8.656446
+kuwait	6	9.939951
+brazil	6	10.040302
+poland	5	9.768284
+united states	5	9.433766
+guadeloupe	1	11.046883
+antarctica	5	9.838755
+jamaica	5	9.144569
+guadeloupe	1	11.046883
+guernsey	5	9.819707
+colombia	5	9.064949
+isle of man	1	10.792426
+saint helena	1	10.731164
+bahamas	6	9.7610235
+botswana	5	8.58559
+cocos islands	1	10.906556
+saint pierre and miquelon	1	10.496709
+vanuatu	5	9.163493
+morocco	5	9.307937
+tunisia	5	9.601665
+senegal	5	9.500851
+monaco	5	9.213148
+philippines	5	9.931227
+belgium	5	9.4437475
+afghanistan	5	9.791485
+micronesia	1	8.975314
+puerto rico	1	9.709326
+cape verde	1	10.204888
+israel	5	8.781889
+saudi arabia	1	10.597533
+tanzania	5	9.4354315
+luxembourg	5	9.194458
+russia	5	8.969185
+gabon	5	9.708181
+madagascar	5	9.346543
+china	5	8.603057
+saudi arabia	1	10.597533
+niger	5	9.348341
+uruguay	6	10.484904
+tuvalu	1	10.491787
+south georgia and the south sandwich islands	1	11.408619
+sint maarten	1	11.787603
+cambodia	6	9.8705225
+
+cuisine
+gluten free	1	9.148207
+bougatsa	1	7.8956323
+caucasian	5	9.472306
+puglia	1	9.642077
+indian	5	8.993121
+soul food	1	7.6513815
+hawaiian	5	8.455025
+javanese	2	8.709466
+padangnese	1	9.257203
+jewish	5	8.50593
+northern brazilian	1	9.256012
+spanish	5	9.99108
+argentinian	1	10.001805
+tatar	5	8.919048
+cuban	5	8.565484
+mineiro	5	8.016206
+south american	1	8.711373
+goiano	5	7.829662
+trentino	1	10.174965
+south tyrolean	1	8.759623
+brazilian	1	8.913029
+french	5	9.759327
+sardinian	1	9.413484
+mineiro	5	8.016206
+spanish	5	9.99108
+tyrolean	1	8.407892
+cambodian	5	8.511136
+sicilian	5	9.278478
+indonesian	5	8.886477
+indian	5	8.993121
+persian	5	8.771784
+pastelaria	1	8.539585
+jain	2	8.531735
+mughlai	1	8.130041
+umbrian	1	10.110231
+mughlai	1	8.130041
+ethiopian	5	8.661
+persian	5	8.771784
+czech	5	9.816355
+eastern european	5	9.986187
+european	5	9.300227
+south tyrolean	1	8.759623
+tuscan	1	8.842972
+indian	5	8.993121
+cuban	5	8.565484
+eastern european	5	9.986187
+puglia	1	9.642077
+moroccan	5	8.438172
+taverna	5	8.6615925
+russian	5	9.095095
+
+facility
+internet	5	9.384152
+outdoor	5	10.29859
+outdoor	5	10.29859
+pool	5	8.442059
+pool	5	8.442059
+smoking room	5	9.3944025
+outdoor	5	10.29859
+smoking room	5	9.3944025
+indoor	5	9.423107
+indoor	5	9.423107
+internet	5	9.384152
+internet	5	9.384152
+internet	5	9.384152
+pool	5	8.442059
+spa	5	8.860398
+spa	5	8.860398
+pool	5	8.442059
+outdoor	5	10.29859
+outdoor	5	10.29859
+spa	5	8.860398
+outdoor	5	10.29859
+outdoor	5	10.29859
+wifi	5	10.417519
+indoor	5	9.423107
+wifi	5	10.417519
+pool	5	8.442059
+indoor	5	9.423107
+indoor	5	9.423107
+wifi	5	10.417519
+indoor	5	9.423107
+spa	5	8.860398
+indoor	5	9.423107
+parking	5	8.57567
+internet	5	9.384152
+indoor	5	9.423107
+parking	5	8.57567
+pool	5	8.442059
+spa	5	8.860398
+internet	5	9.384152
+internet	5	9.384152
+parking	5	8.57567
+wifi	5	10.417519
+smoking room	5	9.3944025
+wifi	5	10.417519
+pool	5	8.442059
+outdoor	5	10.29859
+wifi	5	10.417519
+pool	5	8.442059
+outdoor	5	10.29859
+spa	5	8.860398
+
+geographic_poi
+dovre-nationalpark	1	10.159139
+casa grande ruins national monument	1	9.694582
+custer national forest	1	10.346687
+parc national marin mahatma gandhi	1	8.928669
+sequoyah national wildlife refuge	1	10.326999
+nationaal park bidoup núi bà	1	9.176005
+natural park of las batuecas	1	8.944694
+mount san jacinto state park	1	9.237797
+farallon islands	1	9.186921
+ristigouche ecological reserve	1	8.63457
+morgan–monroe state forest	1	8.467563
+wheatley provincial park	1	8.837131
+bradbury mountain state park	1	8.920703
+khlong phraya wildlife sanctuary	1	10.83922
+kitlope heritage conservancy	1	9.322394
+elgin schoolhouse state historic site	1	8.731508
+jean lafitte national historical park and preserve	1	9.676373
+clayton lake state park	1	9.77149
+black hawk state park	1	10.126276
+east cove national wildlife refuge	1	9.02763
+john n and melba s anderson memorial conservation area	1	8.765817
+stunt ranch santa monica mountains reserve	1	8.991736
+parc national tolhuaca	1	9.650237
+north creek forest	1	8.209319
+matlacha pass national wildlife refuge	1	9.735962
+central cebu protected landscape	1	8.922138
+meeres-nationalpark insel bastimentos	1	9.73859
+boggs mountain demonstration state forest	1	9.249979
+nationalpark midongy du sud	1	9.945631
+narew national park	1	9.213641
+hocking state forest	1	9.557547
+bear rocks lake wildlife management area	1	9.707865
+charleston lake provincial park	1	8.963634
+basaseachic falls national park	1	8.754606
+hoffman hills state recreation area	1	9.677786
+new brunswick botanical garden	1	9.614735
+nationaal park garphyttan	1	8.668417
+greenfoot quarry	1	8.351524
+calakmul biosphere reserve	1	9.27238
+pawling nature reserve	1	8.475721
+dachigam-nationalpark	1	9.452055
+swift river reservation	1	9.025139
+william a switzer provincial park	1	8.162547
+becharof national wildlife refuge	1	8.99694
+pipe spring national monument	1	9.3416195
+state	5	9.703192
+fort point san francisco	1	10.393033
+roy lake state park	1	9.161846
+rendezvous mountain educational state forest	1	8.420753
+mill bluff state park	1	9.472441
+
+current_location
+current place	5	8.451455
+current position	5	8.518928
+current place	5	8.451455
+current spot	5	7.816995
+here	2	9.363564
+here	2	9.363564
+here	2	9.363564
+current location	5	8.238107
+current spot	5	7.816995
+here	2	9.363564
+current position	5	8.518928
+here	2	9.363564
+current position	5	8.518928
+current location	5	8.238107
+here	2	9.363564
+here	2	9.363564
+here	2	9.363564
+here	2	9.363564
+here	2	9.363564
+current position	5	8.518928
+here	2	9.363564
+here	2	9.363564
+current position	5	8.518928
+current place	5	8.451455
+current position	5	8.518928
+current spot	5	7.816995
+current place	5	8.451455
+current location	5	8.238107
+here	2	9.363564
+here	2	9.363564
+here	2	9.363564
+here	2	9.363564
+current place	5	8.451455
+current place	5	8.451455
+current position	5	8.518928
+current spot	5	7.816995
+here	2	9.363564
+current spot	5	7.816995
+current location	5	8.238107
+here	2	9.363564
+current location	5	8.238107
+current location	5	8.238107
+here	2	9.363564
+here	2	9.363564
+current place	5	8.451455
+current spot	5	7.816995
+here	2	9.363564
+here	2	9.363564
+here	2	9.363564
+here	2	9.363564
+
+condition_temperature
+colder	2	8.367533
+colder	2	8.367533
+warmer	2	8.444999
+temperate	2	8.388477
+hot	5	8.845629
+chillier	5	9.214628
+freezing	2	8.502848
+temperate	2	8.388477
+chillier	5	9.214628
+temperate	2	8.388477
+temperate	2	8.388477
+chilly	2	8.118452
+colder	2	8.367533
+chillier	5	9.214628
+temperate	2	8.388477
+colder	2	8.367533
+freezing	2	8.502848
+colder	2	8.367533
+chilly	2	8.118452
+warm	5	8.926156
+cold	5	8.539307
+hot	5	8.845629
+hotter	5	8.646535
+warmer	2	8.444999
+hotter	5	8.646535
+warm	5	8.926156
+warmer	2	8.444999
+cold	5	8.539307
+chillier	5	9.214628
+chillier	5	9.214628
+colder	2	8.367533
+hot	5	8.845629
+colder	2	8.367533
+temperate	2	8.388477
+chilly	2	8.118452
+colder	2	8.367533
+colder	2	8.367533
+hot	5	8.845629
+hotter	5	8.646535
+warm	5	8.926156
+cold	5	8.539307
+hot	5	8.845629
+warm	5	8.926156
+chilly	2	8.118452
+chilly	2	8.118452
+cold	5	8.539307
+warm	5	8.926156
+chilly	2	8.118452
+hotter	5	8.646535
+hotter	5	8.646535
+
+condition_description
+storm	2	8.716206
+stormy	2	8.537715
+stormy	2	8.537715
+snowfall	5	9.424713
+snowstorm	5	9.057185
+rainy	5	8.603631
+overcast	5	9.909704
+snowstorm	5	9.057185
+cloudy	5	9.873485
+overcast	5	9.909704
+humid	5	8.653452
+hail	2	8.793672
+snow	5	8.515266
+snowy	5	8.684328
+snowstorm	5	9.057185
+cloud	2	8.41534
+snow	5	8.515266
+storm	2	8.716206
+cloud	2	8.41534
+sun	2	8.708939
+snowy	5	8.684328
+humid	5	8.653452
+wind	5	8.84039
+fog	2	8.500498
+snowfall	5	9.424713
+snowstorm	5	9.057185
+humidity	5	8.8104925
+windy	2	8.755849
+rain	5	8.662058
+humidity	5	8.8104925
+stormy	2	8.537715
+blizzard	2	8.4393015
+sunny	2	8.436525
+snowy	5	8.684328
+humid	5	8.653452
+rainy	5	8.603631
+overcast	5	9.909704
+fog	2	8.500498
+fog	2	8.500498
+snowfall	5	9.424713
+humidity	5	8.8104925
+humidity	5	8.8104925
+snowy	5	8.684328
+fog	2	8.500498
+storm	2	8.716206
+rainy	5	8.603631
+depression	5	8.708257
+humid	5	8.653452
+foggy	1	8.684754
+rain	5	8.662058
+
+album
+ready to die	1	8.927847
+kings of the wild frontier	1	9.601021
+insult to injury	1	9.1967
+pledge	2	8.2502775
+dance hall at louse point	1	8.270778
+it could only happen with you	1	8.879897
+connie francis sings spanish and latin american favorites	1	9.391604
+the 21 project	5	7.8775926
+mondovisione	1	8.613686
+remember shakti – the believer	1	8.663863
+nature nurture	1	8.636539
+like a hurricane	5	8.335578
+fist for fight	1	8.441548
+safe rock and roll sucks	1	9.465464
+live in l a	5	8.755656
+i myself and me	1	10.06034
+turbulence wild streetdanz	1	8.069588
+allergic	2	8.776764
+still life 1	1	8.310933
+25 to life	1	8.346754
+short walk on a long pier	1	9.976316
+live collection	5	9.135485
+carmen mcrae	1	8.839343
+kurutta taiyō	1	9.260176
+elysium	1	10.011231
+in the arms of god	1	9.825007
+grabsteinland i	1	8.4766655
+spectral dusk	5	7.78158
+andy williams sings rodgers and hammerstein	1	10.545385
+brotherhood	2	8.590428
+love sweat and beer ep	1	8.760881
+música da série de filmes o hobbit	1	9.283574
+subconscious lobotomy	1	7.9865026
+handover	5	8.489141
+diamond head	1	7.635239
+get up offa that thing	1	9.751163
+realization	2	8.329634
+kim wilde	1	8.877127
+lotus flower	1	10.296483
+attack of the planet smashers	1	10.108961
+ten years and running	1	8.843797
+manuel	5	8.762795
+false gestures for a devious public	1	8.604845
+ven a mi	1	9.324899
+winner takes all	1	9.816006
+luxury liner	5	8.581266
+live at slane castle	1	8.892658
+another passenger	5	8.541812
+music from van-pires	1	8.472469
+s t r e e t d a d	1	12.382103
+
+service
+spotify	5	10.007513
+google music	5	9.937874
+netflix	5	9.24134
+last fm	5	8.34863
+youtube	5	9.367235
+pandora	2	8.653845
+google music	5	9.937874
+itunes	5	8.834604
+groove shark	5	8.362271
+zvooq	1	8.603747
+groove shark	5	8.362271
+slacker	5	8.930852
+vimeo	1	9.006063
+pandora	2	8.653845
+lastfm	5	8.113299
+vimeo	1	9.006063
+deezer	1	8.29638
+vimeo	1	9.006063
+vimeo	1	9.006063
+deezer	1	8.29638
+youtube	5	9.367235
+zvooq	1	8.603747
+groove shark	5	8.362271
+slacker	5	8.930852
+netflix	5	9.24134
+last fm	5	8.34863
+iheart	5	7.983982
+slacker	5	8.930852
+zvooq	1	8.603747
+spotify	5	10.007513
+google music	5	9.937874
+deezer	1	8.29638
+slacker	5	8.930852
+google music	5	9.937874
+last fm	5	8.34863
+vimeo	1	9.006063
+groove shark	5	8.362271
+itunes	5	8.834604
+spotify	5	10.007513
+last fm	5	8.34863
+zvooq	1	8.603747
+netflix	5	9.24134
+google music	5	9.937874
+pandora	2	8.653845
+spotify	5	10.007513
+groove shark	5	8.362271
+itunes	5	8.834604
+pandora	2	8.653845
+slacker	5	8.930852
+spotify	5	10.007513
+
+track
+tomtegubben som hade snuva	1	10.270184
+always	2	8.50021
+two suns in the sunset	1	9.103439
+white summer	5	8.939614
+one way ticket	1	9.075406
+all the way my savior leads me	1	9.614684
+alles heeft ritme	1	10.508369
+femme fatale	1	10.381054
+someday soon	1	9.364062
+child maurice	5	8.247775
+tomorrow	5	9.400612
+waar is de zon	1	10.030397
+eternally	1	9.127544
+if you say so	1	9.372204
+the birds and the bees	1	9.833886
+a cup of coffee a sandwich and you	1	9.306321
+rocket queen	1	8.53737
+goodbye alexander goodbye honey boy	1	9.809111
+bitch please ii	1	8.860627
+portsmouth	6	9.874068
+marche lorraine	1	9.2774725
+crucifixion	1	11.846882
+robin hood rescuing three squires	1	9.79658
+under the anheuser bush	1	8.79389
+the song remains the same	1	9.063731
+september gouden roos	1	9.313136
+song for adam	1	8.308025
+fight on state	1	8.819734
+chance of a lifetime	1	9.395195
+tanti auguri a te	1	8.940456
+contigo en la distancia	1	11.055421
+siberian khatru	1	8.803677
+asleep in the deep	1	8.685994
+elastic love	1	7.6609244
+sugar baby	1	8.84419
+shine a light	1	9.6459465
+vanlose stairway	1	8.522625
+midnight special	5	8.982688
+bitch please ii	1	8.860627
+the change is made	1	8.458548
+ding dong bell	1	10.025415
+cry baby cry	1	9.96738
+the happiest days of our lives	1	10.56873
+fight on state	1	8.819734
+mikazuki sunset	1	9.274592
+ramakadha	1	9.141342
+el cant dels ocells	1	9.882708
+who do you think you are	1	10.297826
+before i grew up to love you	1	9.181428
+full	5	8.70808
+
+year
+thirties	2	8.546507
+2003	5	8.415087
+1997	5	8.633281
+2016	5	8.741945
+2008	5	8.689821
+1989	5	8.687413
+fourties	1	7.95618
+sixties	2	8.86132
+1972	5	8.919669
+1998	5	8.552695
+seventies	2	8.729067
+1992	5	8.873809
+fifties	2	8.8788185
+sixties	2	8.86132
+twenties	2	8.421977
+twenties	2	8.421977
+1951	5	8.847211
+sixties	2	8.86132
+fourties	1	7.95618
+1974	5	8.666242
+twenties	2	8.421977
+1972	5	8.919669
+sixties	2	8.86132
+fourties	1	7.95618
+1999	5	8.457629
+1957	5	8.937175
+1950	5	8.925023
+1981	5	8.4208355
+thirties	2	8.546507
+2007	5	8.439407
+twenties	2	8.421977
+twenties	2	8.421977
+nineties	1	9.830761
+thirties	2	8.546507
+seventies	2	8.729067
+2011	5	8.246856
+2004	5	8.669723
+twenties	2	8.421977
+1962	5	8.732167
+twenties	2	8.421977
+2014	5	8.322755
+1970	5	9.018273
+twenties	2	8.421977
+sixties	2	8.86132
+eighties	2	8.801377
+thirties	2	8.546507
+twenties	2	8.421977
+seventies	2	8.729067
+seventies	2	8.729067
+fifties	2	8.8788185
+
+genre
+rap	5	10.393025
+post-punk revival	5	10.483914
+industrial	5	8.922388
+merengue	1	9.281522
+grunge	5	9.892331
+native us	1	8.168007
+drum & bass	1	10.85635
+opera	5	9.136652
+slow rock	1	8.447178
+rock symphonique	1	9.615693
+humour	5	9.851519
+easy listening	1	8.6135025
+latin	5	9.43758
+southern rock	1	7.7048354
+fun-punk	5	8.99034
+freak folk	5	8.056225
+pop	2	9.052647
+techno-industrial	5	9.734036
+acapella	1	8.5719385
+britpop	5	10.109971
+acid punk	5	9.157969
+dance	5	9.074583
+acapella	1	8.5719385
+celtic	5	8.623161
+synthpop	5	9.882426
+gothic	5	9.208169
+retro	2	8.748708
+swing	2	8.232857
+industrial	5	8.922388
+sonata	2	9.468288
+satire	5	8.634202
+happy gabber	1	8.720943
+chanson	1	9.925313
+oldies	2	8.519694
+pop-folk	5	9.251096
+kacapi suling	1	8.747146
+psychedelic rock	5	8.863876
+rock	2	8.773801
+opera	5	9.136652
+christian rock	1	9.223108
+chanson	1	9.925313
+ambient	5	9.147726
+grunge	5	9.892331
+game	5	8.52328
+hardcore hip hop	5	9.885277
+punk rock	5	9.599904
+slow rock	1	8.447178
+gospel	2	8.477999
+rave	2	9.083709
+negerpunk	1	9.16048
+
+object_select
+current	5	9.005881
+this	2	8.670272
+current	5	9.005881
+current	5	9.005881
+this	2	8.670272
+this	2	8.670272
+this	2	8.670272
+current	5	9.005881
+following	5	8.639918
+this	2	8.670272
+this	2	8.670272
+this	2	8.670272
+this	2	8.670272
+this	2	8.670272
+current	5	9.005881
+current	5	9.005881
+this	2	8.670272
+this	2	8.670272
+current	5	9.005881
+current	5	9.005881
+this	2	8.670272
+current	5	9.005881
+this	2	8.670272
+current	5	9.005881
+this	2	8.670272
+this	2	8.670272
+current	5	9.005881
+this	2	8.670272
+current	5	9.005881
+current	5	9.005881
+current	5	9.005881
+current	5	9.005881
+this	2	8.670272
+current	5	9.005881
+this	2	8.670272
+current	5	9.005881
+current	5	9.005881
+current	5	9.005881
+this	2	8.670272
+current	5	9.005881
+this	2	8.670272
+this	2	8.670272
+last	5	8.54334
+current	5	9.005881
+this	2	8.670272
+current	5	9.005881
+current	5	9.005881
+next	5	9.501857
+current	5	9.005881
+this	2	8.670272
+
+object_type
+tv show	5	9.129599
+television show	5	9.135759
+textbook	2	8.294884
+novel	5	9.061374
+album	5	8.80573
+book	5	8.369865
+textbook	2	8.294884
+novel	5	9.061374
+painting	5	8.9399395
+tv show	5	9.129599
+movie times	5	8.8884535
+movie schedules	5	9.152672
+novel	5	9.061374
+song	5	8.78913
+soundtrack	5	8.595939
+game	5	8.52328
+movie schedule	5	9.645719
+movie	6	8.901079
+album	5	8.80573
+movie times	5	8.8884535
+painting	5	8.9399395
+picture	5	8.97462
+album	5	8.80573
+trailer	5	8.757016
+tv series	5	9.151289
+movie times	5	8.8884535
+tv show	5	9.129599
+movie times	5	8.8884535
+novel	5	9.061374
+tv series	5	9.151289
+movie	6	8.901079
+movie schedule	5	9.645719
+book	5	8.369865
+game	5	8.52328
+show	5	8.827803
+essay	5	9.399271
+times	5	8.812701
+book	5	8.369865
+essay	5	9.399271
+textbook	2	8.294884
+photograph	5	9.136217
+soundtrack	5	8.595939
+trailer	5	8.757016
+saga	5	8.821154
+trailer	5	8.757016
+tv show	5	9.129599
+textbook	2	8.294884
+tv show	5	9.129599
+television show	5	9.135759
+book	5	8.369865
+
+rating_value
+2	3	8.909331
+0	2	9.134378
+2	3	8.909331
+one	3	9.004727
+zero	2	8.639259
+three	3	9.151891
+5	3	8.714866
+2	3	8.909331
+one	3	9.004727
+five	3	8.765581
+four	3	8.8240385
+two	3	9.226468
+zero	2	8.639259
+zero	2	8.639259
+1	3	8.898421
+five	3	8.765581
+1	3	8.898421
+3	3	8.906911
+0	2	9.134378
+1	3	8.898421
+0	2	9.134378
+3	3	8.906911
+2	3	8.909331
+zero	2	8.639259
+five	3	8.765581
+two	3	9.226468
+3	3	8.906911
+four	3	8.8240385
+3	3	8.906911
+four	3	8.8240385
+3	3	8.906911
+four	3	8.8240385
+4	3	8.778585
+0	2	9.134378
+0	2	9.134378
+zero	2	8.639259
+0	2	9.134378
+1	3	8.898421
+4	3	8.778585
+two	3	9.226468
+5	3	8.714866
+one	3	9.004727
+three	3	9.151891
+3	3	8.906911
+3	3	8.906911
+3	3	8.906911
+five	3	8.765581
+one	3	9.004727
+two	3	9.226468
+zero	2	8.639259
+
+best_rating
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+6	3	8.828346
+
+object_part_of_series_type
+chronicle	5	9.020718
+chronicle	5	9.020718
+saga	5	8.821154
+series	6	9.42848
+saga	5	8.821154
+series	6	9.42848
+chronicle	5	9.020718
+series	6	9.42848
+series	6	9.42848
+chronicle	5	9.020718
+saga	5	8.821154
+chronicle	5	9.020718
+chronicle	5	9.020718
+saga	5	8.821154
+chronicle	5	9.020718
+series	6	9.42848
+chronicle	5	9.020718
+saga	5	8.821154
+saga	5	8.821154
+saga	5	8.821154
+saga	5	8.821154
+series	6	9.42848
+series	6	9.42848
+chronicle	5	9.020718
+series	6	9.42848
+saga	5	8.821154
+chronicle	5	9.020718
+series	6	9.42848
+saga	5	8.821154
+saga	5	8.821154
+series	6	9.42848
+saga	5	8.821154
+saga	5	8.821154
+chronicle	5	9.020718
+saga	5	8.821154
+chronicle	5	9.020718
+series	6	9.42848
+chronicle	5	9.020718
+series	6	9.42848
+series	6	9.42848
+chronicle	5	9.020718
+series	6	9.42848
+series	6	9.42848
+series	6	9.42848
+series	6	9.42848
+chronicle	5	9.020718
+chronicle	5	9.020718
+series	6	9.42848
+series	6	9.42848
+chronicle	5	9.020718
+
+rating_unit
+points	4	10.676419
+points	4	10.676419
+stars	5	8.751536
+points	4	10.676419
+points	4	10.676419
+points	4	10.676419
+points	4	10.676419
+points	4	10.676419
+points	4	10.676419
+points	4	10.676419
+points	4	10.676419
+stars	5	8.751536
+points	4	10.676419
+stars	5	8.751536
+stars	5	8.751536
+points	4	10.676419
+stars	5	8.751536
+stars	5	8.751536
+points	4	10.676419
+stars	5	8.751536
+stars	5	8.751536
+stars	5	8.751536
+points	4	10.676419
+stars	5	8.751536
+points	4	10.676419
+points	4	10.676419
+points	4	10.676419
+stars	5	8.751536
+stars	5	8.751536
+stars	5	8.751536
+stars	5	8.751536
+points	4	10.676419
+stars	5	8.751536
+points	4	10.676419
+points	4	10.676419
+points	4	10.676419
+stars	5	8.751536
+points	4	10.676419
+points	4	10.676419
+points	4	10.676419
+stars	5	8.751536
+stars	5	8.751536
+points	4	10.676419
+stars	5	8.751536
+points	4	10.676419
+stars	5	8.751536
+points	4	10.676419
+stars	5	8.751536
+stars	5	8.751536
+stars	5	8.751536
+
+object_name
+the crystal snare	1	8.280834
+first contact	1	9.859445
+welcome to the el-palacio	1	9.57426
+dragon ball: music collection	1	9.723104
+the mad scientist hall of fame	1	9.831092
+ace of spades	1	11.3785715
+background to danger	1	10.487634
+american journal of sociology	1	9.886001
+the house of the dead	1	9.4415045
+crimson climax	5	8.301498
+molecular oncology	1	10.180285
+halfway home	1	9.179183
+choper coffee gilson	1	8.428342
+winning the oil endgame	1	8.147426
+i need romance	1	8.619043
+chasing after shadows living with the ghosts	1	8.95966
+the costs of accidents	1	9.506923
+bachelor pad	1	9.975575
+the teahouse fire	1	7.897222
+changes: a love story	1	8.907418
+wild solutions	5	7.8148465
+playmaker football	5	8.014336
+whispering willows	1	9.804015
+the argumentative indian	1	7.971524
+three tales	5	8.405381
+the compleat housewife	1	8.806183
+mars probes	1	10.434319
+carry me in your dreams	1	9.210017
+since i saw you last	1	9.72202
+legion of mary: the jerry garcia collection	1	9.087179
+whispers in the graveyard	1	9.4005375
+my wonderful day	1	8.980281
+church of the truly warped	1	9.867608
+the fall-down artist	1	8.884586
+whole again	1	9.984546
+sardonic wrath	1	9.311079
+the cool world	1	8.478799
+my sister my love	1	9.137342
+lahore	5	9.40579
+full house	5	8.280063
+call for the saint	1	9.648378
+the monkey and the tiger	1	9.460219
+history repeating	5	8.824479
+give it all	1	10.366174
+the little death	1	8.323091
+testing anywhere	5	7.8190746
+my own best enemy	1	8.818194
+a very special christmas 7	1	9.442845
+live at the isle of wight 1970	1	10.270305
+the lacuna	1	8.285967
+
+movie_name
+hard time romance	1	8.923951
+my dearest enemy	1	10.109908
+happy ghost iii	1	8.203135
+swamp water	5	9.10972
+last cab to darwin	1	9.363092
+of stars and men	1	8.852463
+up the yangtze	1	9.892709
+chronicle of my mother	1	8.591479
+we stick together through thick and thin	1	8.639939
+man in blues	1	8.488358
+we are northern lights	1	8.313683
+too young to marry	1	9.526842
+chandranath	5	7.979313
+the taste of others	1	9.341608
+atlantis terre engloutie	1	8.336422
+the little irish girl	1	9.166918
+sexy dance 2	1	8.6098995
+screamplay	5	8.148809
+the natural history of parking lots	1	9.758903
+the abdication	1	8.935172
+nichiren to mōko daishūrai	1	9.72432
+longwave	5	8.700206
+if the huns came to melbourne	1	8.805778
+a storm in the stars	1	9.108223
+girls to marry	1	8.711818
+invisible child	5	7.8398285
+harbour beat	5	7.4984713
+death drums along the river	1	9.242011
+the umbrellas of cherbourg	1	8.813029
+mulawin: the movie	1	8.733094
+kebab connection	1	8.245929
+dough nuts	1	8.991146
+all night long 3	1	9.071513
+the prince who was a thief	1	9.0784855
+a mile in his shoes	1	7.945879
+and the ship sails on	1	9.892202
+the untold story	1	8.779785
+the ranger and the lady	1	9.395364
+wild america	1	8.493834
+pirates of the 20th century	1	9.349917
+sulle sathya	1	9.201065
+the world according to john coltrane	1	9.600441
+the message	5	8.1696415
+vanishing of the bees	1	8.06676
+redacted	5	8.398329
+fear chamber	5	8.000562
+gaddar: the traitor	1	8.870759
+the bleeding house	1	8.131565
+phera	1	9.220517
+while the sun shines	1	9.958226
+
+movie_type
+animated movies	6	9.172434
+movies	6	8.711397
+films	6	10.027406
+animated movies	6	9.172434
+movies	6	8.711397
+movies	6	8.711397
+movies	6	8.711397
+animated movies	6	9.172434
+films	6	10.027406
+films	6	10.027406
+animated movies	6	9.172434
+animated movies	6	9.172434
+movies	6	8.711397
+animated movies	6	9.172434
+films	6	10.027406
+films	6	10.027406
+movies	6	8.711397
+films	6	10.027406
+animated movies	6	9.172434
+films	6	10.027406
+animated movies	6	9.172434
+animated movies	6	9.172434
+movies	6	8.711397
+movies	6	8.711397
+films	6	10.027406
+animated movies	6	9.172434
+animated movies	6	9.172434
+movies	6	8.711397
+animated movies	6	9.172434
+movies	6	8.711397
+film	6	9.802912
+animated movies	6	9.172434
+animated movies	6	9.172434
+films	6	10.027406
+animated movies	6	9.172434
+animated movies	6	9.172434
+animated movies	6	9.172434
+animated movies	6	9.172434
+movies	6	8.711397
+movies	6	8.711397
+animated movies	6	9.172434
+animated movies	6	9.172434
+movies	6	8.711397
+animated movies	6	9.172434
+films	6	10.027406
+animated movies	6	9.172434
+movies	6	8.711397
+movies	6	8.711397
+movies	6	8.711397
+films	6	10.027406
+
+object_location_type
+cinema	6	10.142985
+movie house	6	8.618303
+movie house	6	8.618303
+movie theatre	6	8.846871
+movie house	6	8.618303
+movie theatre	6	8.846871
+movie theatre	6	8.846871
+cinema	6	10.142985
+cinema	6	10.142985
+movie theatre	6	8.846871
+movie theatre	6	8.846871
+movie house	6	8.618303
+movie house	6	8.618303
+cinema	6	10.142985
+movie house	6	8.618303
+cinema	6	10.142985
+cinema	6	10.142985
+movie theatre	6	8.846871
+movie theatre	6	8.846871
+movie house	6	8.618303
+cinema	6	10.142985
+movie theatre	6	8.846871
+cinema	6	10.142985
+cinema	6	10.142985
+cinema	6	10.142985
+cinema	6	10.142985
+movie house	6	8.618303
+cinema	6	10.142985
+movie house	6	8.618303
+cinema	6	10.142985
+cinema	6	10.142985
+movie house	6	8.618303
+movie theatre	6	8.846871
+movie house	6	8.618303
+movie theatre	6	8.846871
+cinema	6	10.142985
+movie theatre	6	8.846871
+movie house	6	8.618303
+cinema	6	10.142985
+movie house	6	8.618303
+movie theatre	6	8.846871
+movie house	6	8.618303
+movie house	6	8.618303
+movie theatre	6	8.846871
+movie house	6	8.618303
+movie theatre	6	8.846871
+movie house	6	8.618303
+movie theatre	6	8.846871
+movie theatre	6	8.846871
+cinema	6	10.142985
+
+location_name
+landmark theatres	1	8.50021
+speakeasy theaters	1	9.364296
+great escape theatres	1	9.055426
+cineplex odeon corporation	1	10.162777
+bow tie cinemas	1	8.676113
+dipson theatres	1	8.171196
+amc theatres	1	9.424525
+b&b theatres	1	9.183913
+star theatres	1	9.068586
+b&b theatres	1	9.183913
+star theatres	1	9.068586
+magic johnson theatres	1	8.216833
+loews cineplex entertainment	1	9.662719
+regal entertainment group	1	9.10224
+dipson theatres	1	8.171196
+regal entertainment group	1	9.10224
+pacific theatres	1	8.292578
+kb theatres	1	8.832322
+megaplex theatres	1	9.612991
+megaplex theatres	1	9.612991
+santikos theatres	1	9.649941
+amc theaters	1	9.404059
+imax corporation	1	9.006558
+neighborhood cinema group	1	8.1177225
+theaters	5	8.457229
+santikos theatres	1	9.649941
+north american cinemas	5	9.494271
+magic johnson theatres	1	8.216833
+warren theatres	1	7.8419333
+goodrich quality theaters	1	8.379029
+dipson theatres	1	8.171196
+harkins theatres	1	8.303215
+harkins theatres	1	8.303215
+southern theatres	1	8.415963
+cobb theatres	1	7.8295674
+consolidated theatres	1	8.288985
+consolidated theatres	1	8.288985
+southern theatres	1	8.415963
+douglas theatre company	1	8.478775
+kb theatres	1	8.832322
+cinemark theatres	1	8.538363
+general cinema corporation	1	8.808112
+loews cineplex entertainment	1	9.662719
+cineplex odeon corporation	1	10.162777
+cinemark theatres	1	8.538363
+kerasotes theatres	1	10.204831
+bow tie cinemas	1	8.676113
+santikos theatres	1	9.649941
+cinemark theatres	1	8.538363
+north american cinemas	5	9.494271
+
