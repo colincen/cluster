@@ -22,7 +22,7 @@ def get_params():
     parser.add_argument("--log_file", type=str, default="/home/shenhao/cluster/graphbased/log")
 
     # adaptation parameters
-    parser.add_argument("--epoch", type=int, default=20, help="number of maximum epoch")
+    parser.add_argument("--epoch", type=int, default=8, help="number of maximum epoch")
     parser.add_argument("--tgt_domain", type=str, default="", help="target_domain")
     parser.add_argument("--bert_path", type=str, default="/home/shenhao/bert-base-uncased", help="embeddings file")  
     # slu_word_char_embs_with_slotembs.npy

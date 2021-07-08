@@ -17,3 +17,1267 @@ INFO - 07/03/21 23:02:28 - 0:00:00 - batch_size: 32
                                      tgt_domain: 
 INFO - 07/03/21 23:02:28 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
                                      
+INFO - 07/04/21 13:00:17 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 13:00:17 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 13:00:17 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 13:00:54 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 13:00:54 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 13:00:54 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 13:02:19 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 13:02:19 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 13:02:19 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 13:05:58 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 13:05:58 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 13:05:58 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 13:08:56 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 13:08:56 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 13:08:56 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 13:09:30 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 13:09:30 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 13:09:30 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 13:22:41 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 13:22:41 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 13:22:41 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 13:23:32 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 13:23:32 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 13:23:32 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 13:24:18 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 13:24:18 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 13:24:18 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 13:26:38 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 13:26:38 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 13:26:38 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 13:27:08 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 13:27:08 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 13:27:08 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 13:29:24 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 13:29:24 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 13:29:24 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 13:36:07 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 13:36:07 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 13:36:07 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 13:48:46 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 13:48:46 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 13:48:46 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 13:50:00 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 13:50:00 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 13:50:00 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 13:50:59 - 0:00:59 - processed 4490 tokens with 1328 phrases; found: 1300 phrases; correct: 1212.
+                                     accuracy:  93.39%; (non-O)accuracy:  96.21%; precision:  93.23%; recall:  91.27%; FB1:  92.24
+INFO - 07/04/21 13:50:59 - 0:00:59 -             album: precision:   7.69%; recall:   9.09%; FB1:   8.33  13
+INFO - 07/04/21 13:50:59 - 0:00:59 -            artist: precision:  95.65%; recall:  80.00%; FB1:  87.13  46
+INFO - 07/04/21 13:50:59 - 0:00:59 -       best_rating: precision: 100.00%; recall: 100.00%; FB1: 100.00  59
+INFO - 07/04/21 13:50:59 - 0:00:59 -              city: precision:  92.59%; recall:  92.59%; FB1:  92.59  54
+INFO - 07/04/21 13:50:59 - 0:00:59 - condition_description: precision: 100.00%; recall: 100.00%; FB1: 100.00  23
+INFO - 07/04/21 13:50:59 - 0:00:59 - condition_temperature: precision: 100.00%; recall:  95.83%; FB1:  97.87  23
+INFO - 07/04/21 13:50:59 - 0:00:59 -           country: precision:  91.18%; recall:  96.88%; FB1:  93.94  34
+INFO - 07/04/21 13:50:59 - 0:00:59 -           cuisine: precision:  87.50%; recall:  70.00%; FB1:  77.78  8
+INFO - 07/04/21 13:50:59 - 0:00:59 -  current_location: precision: 100.00%; recall: 100.00%; FB1: 100.00  11
+INFO - 07/04/21 13:50:59 - 0:00:59 -          facility: precision:  66.67%; recall:  80.00%; FB1:  72.73  6
+INFO - 07/04/21 13:50:59 - 0:00:59 -             genre: precision:  60.00%; recall:  60.00%; FB1:  60.00  5
+INFO - 07/04/21 13:50:59 - 0:00:59 -    geographic_poi: precision: 100.00%; recall: 100.00%; FB1: 100.00  12
+INFO - 07/04/21 13:50:59 - 0:00:59 -     location_name: precision: 100.00%; recall: 100.00%; FB1: 100.00  24
+INFO - 07/04/21 13:50:59 - 0:00:59 -        movie_name: precision:  93.55%; recall:  96.67%; FB1:  95.08  31
+INFO - 07/04/21 13:50:59 - 0:00:59 -        movie_type: precision:  96.43%; recall: 100.00%; FB1:  98.18  28
+INFO - 07/04/21 13:50:59 - 0:00:59 -        music_item: precision:  96.67%; recall: 100.00%; FB1:  98.31  30
+INFO - 07/04/21 13:50:59 - 0:00:59 - object_location_type: precision: 100.00%; recall: 100.00%; FB1: 100.00  16
+INFO - 07/04/21 13:50:59 - 0:00:59 -       object_name: precision:  88.15%; recall:  83.22%; FB1:  85.61  135
+INFO - 07/04/21 13:50:59 - 0:00:59 - object_part_of_series_type: precision: 100.00%; recall: 100.00%; FB1: 100.00  12
+INFO - 07/04/21 13:50:59 - 0:00:59 -     object_select: precision:  97.62%; recall:  85.42%; FB1:  91.11  42
+INFO - 07/04/21 13:50:59 - 0:00:59 -       object_type: precision:  98.47%; recall:  95.56%; FB1:  96.99  131
+INFO - 07/04/21 13:50:59 - 0:00:59 - party_size_description: precision: 100.00%; recall: 100.00%; FB1: 100.00  10
+INFO - 07/04/21 13:50:59 - 0:00:59 - party_size_number: precision: 100.00%; recall: 100.00%; FB1: 100.00  46
+INFO - 07/04/21 13:50:59 - 0:00:59 -          playlist: precision:  50.00%; recall:  44.44%; FB1:  47.06  8
+INFO - 07/04/21 13:50:59 - 0:00:59 -               poi: precision:  20.00%; recall:  33.33%; FB1:  25.00  5
+INFO - 07/04/21 13:50:59 - 0:00:59 -       rating_unit: precision: 100.00%; recall: 100.00%; FB1: 100.00  60
+INFO - 07/04/21 13:50:59 - 0:00:59 -      rating_value: precision: 100.00%; recall: 100.00%; FB1: 100.00  93
+INFO - 07/04/21 13:50:59 - 0:00:59 -   restaurant_name: precision:  53.85%; recall:  31.82%; FB1:  40.00  13
+INFO - 07/04/21 13:50:59 - 0:00:59 -   restaurant_type: precision:  91.23%; recall:  94.55%; FB1:  92.86  57
+INFO - 07/04/21 13:50:59 - 0:00:59 -       served_dish: precision:  76.92%; recall:  76.92%; FB1:  76.92  13
+INFO - 07/04/21 13:50:59 - 0:00:59 -           service: precision:  96.30%; recall:  96.30%; FB1:  96.30  27
+INFO - 07/04/21 13:50:59 - 0:00:59 -              sort: precision: 100.00%; recall:  95.83%; FB1:  97.87  23
+INFO - 07/04/21 13:50:59 - 0:00:59 -  spatial_relation: precision:  92.00%; recall:  93.88%; FB1:  92.93  50
+INFO - 07/04/21 13:50:59 - 0:00:59 -             state: precision:  94.44%; recall:  91.89%; FB1:  93.15  36
+INFO - 07/04/21 13:50:59 - 0:00:59 -         timeRange: precision:  94.19%; recall:  96.43%; FB1:  95.29  86
+INFO - 07/04/21 13:50:59 - 0:00:59 -             track: precision:  37.50%; recall:  33.33%; FB1:  35.29  8
+INFO - 07/04/21 13:50:59 - 0:00:59 -              year: precision: 100.00%; recall: 100.00%; FB1: 100.00  22
+INFO - 07/04/21 13:51:48 - 0:01:48 - processed 4490 tokens with 1333 phrases; found: 1300 phrases; correct: 1224.
+                                     accuracy:  94.03%; (non-O)accuracy:  96.66%; precision:  94.15%; recall:  91.82%; FB1:  92.97
+INFO - 07/04/21 13:51:48 - 0:01:48 -             album: precision:   0.00%; recall:   0.00%; FB1:   0.00  13
+INFO - 07/04/21 13:51:48 - 0:01:48 -            artist: precision:  93.48%; recall:  89.58%; FB1:  91.49  46
+INFO - 07/04/21 13:51:48 - 0:01:48 -       best_rating: precision: 100.00%; recall: 100.00%; FB1: 100.00  59
+INFO - 07/04/21 13:51:48 - 0:01:48 -              city: precision:  96.30%; recall:  96.30%; FB1:  96.30  54
+INFO - 07/04/21 13:51:48 - 0:01:48 - condition_description: precision: 100.00%; recall: 100.00%; FB1: 100.00  23
+INFO - 07/04/21 13:51:48 - 0:01:48 - condition_temperature: precision: 100.00%; recall: 100.00%; FB1: 100.00  23
+INFO - 07/04/21 13:51:48 - 0:01:48 -           country: precision:  91.18%; recall: 100.00%; FB1:  95.38  34
+INFO - 07/04/21 13:51:48 - 0:01:48 -           cuisine: precision:  62.50%; recall:  45.45%; FB1:  52.63  8
+INFO - 07/04/21 13:51:48 - 0:01:48 -  current_location: precision: 100.00%; recall: 100.00%; FB1: 100.00  11
+INFO - 07/04/21 13:51:48 - 0:01:48 -          facility: precision:  83.33%; recall: 100.00%; FB1:  90.91  6
+INFO - 07/04/21 13:51:48 - 0:01:48 -             genre: precision: 100.00%; recall:  50.00%; FB1:  66.67  5
+INFO - 07/04/21 13:51:48 - 0:01:48 -    geographic_poi: precision: 100.00%; recall: 100.00%; FB1: 100.00  12
+INFO - 07/04/21 13:51:48 - 0:01:48 -     location_name: precision: 100.00%; recall: 100.00%; FB1: 100.00  24
+INFO - 07/04/21 13:51:48 - 0:01:48 -        movie_name: precision:  93.55%; recall:  76.32%; FB1:  84.06  31
+INFO - 07/04/21 13:51:48 - 0:01:48 -        movie_type: precision: 100.00%; recall: 100.00%; FB1: 100.00  28
+INFO - 07/04/21 13:51:48 - 0:01:48 -        music_item: precision: 100.00%; recall: 100.00%; FB1: 100.00  30
+INFO - 07/04/21 13:51:48 - 0:01:48 - object_location_type: precision: 100.00%; recall: 100.00%; FB1: 100.00  16
+INFO - 07/04/21 13:51:48 - 0:01:48 -       object_name: precision:  85.93%; recall:  82.86%; FB1:  84.36  135
+INFO - 07/04/21 13:51:48 - 0:01:48 - object_part_of_series_type: precision: 100.00%; recall: 100.00%; FB1: 100.00  12
+INFO - 07/04/21 13:51:48 - 0:01:48 -     object_select: precision:  97.62%; recall:  97.62%; FB1:  97.62  42
+INFO - 07/04/21 13:51:48 - 0:01:48 -       object_type: precision:  98.47%; recall:  96.99%; FB1:  97.73  131
+INFO - 07/04/21 13:51:48 - 0:01:48 - party_size_description: precision: 100.00%; recall: 100.00%; FB1: 100.00  10
+INFO - 07/04/21 13:51:48 - 0:01:48 - party_size_number: precision: 100.00%; recall: 100.00%; FB1: 100.00  46
+INFO - 07/04/21 13:51:48 - 0:01:48 -          playlist: precision:  62.50%; recall:  45.45%; FB1:  52.63  8
+INFO - 07/04/21 13:51:48 - 0:01:48 -               poi: precision:  40.00%; recall:  66.67%; FB1:  50.00  5
+INFO - 07/04/21 13:51:48 - 0:01:48 -       rating_unit: precision: 100.00%; recall: 100.00%; FB1: 100.00  60
+INFO - 07/04/21 13:51:48 - 0:01:48 -      rating_value: precision: 100.00%; recall: 100.00%; FB1: 100.00  93
+INFO - 07/04/21 13:51:48 - 0:01:48 -   restaurant_name: precision:  69.23%; recall:  52.94%; FB1:  60.00  13
+INFO - 07/04/21 13:51:48 - 0:01:48 -   restaurant_type: precision:  94.74%; recall:  93.10%; FB1:  93.91  57
+INFO - 07/04/21 13:51:48 - 0:01:48 -       served_dish: precision:  76.92%; recall:  66.67%; FB1:  71.43  13
+INFO - 07/04/21 13:51:48 - 0:01:48 -           service: precision: 100.00%; recall: 100.00%; FB1: 100.00  27
+INFO - 07/04/21 13:51:48 - 0:01:48 -              sort: precision: 100.00%; recall:  95.83%; FB1:  97.87  23
+INFO - 07/04/21 13:51:48 - 0:01:48 -  spatial_relation: precision:  96.00%; recall:  96.00%; FB1:  96.00  50
+INFO - 07/04/21 13:51:48 - 0:01:48 -             state: precision: 100.00%; recall:  94.74%; FB1:  97.30  36
+INFO - 07/04/21 13:51:48 - 0:01:48 -         timeRange: precision:  93.02%; recall:  94.12%; FB1:  93.57  86
+INFO - 07/04/21 13:51:48 - 0:01:48 -             track: precision:  62.50%; recall:  38.46%; FB1:  47.62  8
+INFO - 07/04/21 13:51:48 - 0:01:48 -              year: precision: 100.00%; recall: 100.00%; FB1: 100.00  22
+INFO - 07/04/21 14:02:29 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 14:02:29 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 14:02:29 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 14:03:28 - 0:00:58 - processed 4468 tokens with 1317 phrases; found: 1291 phrases; correct: 1233.
+                                     accuracy:  94.87%; (non-O)accuracy:  97.34%; precision:  95.51%; recall:  93.62%; FB1:  94.56
+INFO - 07/04/21 14:03:28 - 0:00:58 -             album: precision:  62.50%; recall:  29.41%; FB1:  40.00  8
+INFO - 07/04/21 14:03:28 - 0:00:58 -            artist: precision:  95.35%; recall:  91.11%; FB1:  93.18  43
+INFO - 07/04/21 14:03:28 - 0:00:58 -       best_rating: precision: 100.00%; recall: 100.00%; FB1: 100.00  51
+INFO - 07/04/21 14:03:28 - 0:00:58 -              city: precision:  94.52%; recall:  93.24%; FB1:  93.88  73
+INFO - 07/04/21 14:03:28 - 0:00:58 - condition_description: precision: 100.00%; recall: 100.00%; FB1: 100.00  17
+INFO - 07/04/21 14:03:28 - 0:00:58 - condition_temperature: precision: 100.00%; recall:  96.30%; FB1:  98.11  26
+INFO - 07/04/21 14:03:28 - 0:00:58 -           country: precision: 100.00%; recall:  95.24%; FB1:  97.56  40
+INFO - 07/04/21 14:03:28 - 0:00:58 -           cuisine: precision:  45.45%; recall: 100.00%; FB1:  62.50  11
+INFO - 07/04/21 14:03:28 - 0:00:58 -  current_location: precision: 100.00%; recall: 100.00%; FB1: 100.00  12
+INFO - 07/04/21 14:03:28 - 0:00:58 -          facility: precision: 100.00%; recall: 100.00%; FB1: 100.00  8
+INFO - 07/04/21 14:03:28 - 0:00:58 -             genre: precision:  57.14%; recall:  36.36%; FB1:  44.44  7
+INFO - 07/04/21 14:03:28 - 0:00:58 -    geographic_poi: precision: 100.00%; recall: 100.00%; FB1: 100.00  8
+INFO - 07/04/21 14:03:28 - 0:00:58 -     location_name: precision:  96.55%; recall: 100.00%; FB1:  98.25  29
+INFO - 07/04/21 14:03:28 - 0:00:58 -        movie_name: precision:  86.84%; recall:  91.67%; FB1:  89.19  38
+INFO - 07/04/21 14:03:28 - 0:00:58 -        movie_type: precision: 100.00%; recall: 100.00%; FB1: 100.00  29
+INFO - 07/04/21 14:03:28 - 0:00:58 -        music_item: precision: 100.00%; recall:  91.18%; FB1:  95.38  31
+INFO - 07/04/21 14:03:28 - 0:00:58 - object_location_type: precision: 100.00%; recall:  87.50%; FB1:  93.33  14
+INFO - 07/04/21 14:03:28 - 0:00:58 -       object_name: precision:  90.68%; recall:  87.70%; FB1:  89.17  118
+INFO - 07/04/21 14:03:28 - 0:00:58 - object_part_of_series_type: precision: 100.00%; recall: 100.00%; FB1: 100.00  13
+INFO - 07/04/21 14:03:28 - 0:00:58 -     object_select: precision: 100.00%; recall: 100.00%; FB1: 100.00  43
+INFO - 07/04/21 14:03:28 - 0:00:58 -       object_type: precision:  99.24%; recall:  96.32%; FB1:  97.76  132
+INFO - 07/04/21 14:03:28 - 0:00:58 - party_size_description: precision: 100.00%; recall: 100.00%; FB1: 100.00  10
+INFO - 07/04/21 14:03:28 - 0:00:58 - party_size_number: precision: 100.00%; recall: 100.00%; FB1: 100.00  38
+INFO - 07/04/21 14:03:28 - 0:00:58 -          playlist: precision:  44.44%; recall:  50.00%; FB1:  47.06  9
+INFO - 07/04/21 14:03:28 - 0:00:58 -               poi: precision:  87.50%; recall:  70.00%; FB1:  77.78  8
+INFO - 07/04/21 14:03:28 - 0:00:58 -       rating_unit: precision: 100.00%; recall: 100.00%; FB1: 100.00  49
+INFO - 07/04/21 14:03:28 - 0:00:58 -      rating_value: precision: 100.00%; recall:  98.88%; FB1:  99.44  88
+INFO - 07/04/21 14:03:28 - 0:00:58 -   restaurant_name: precision:  81.25%; recall:  76.47%; FB1:  78.79  16
+INFO - 07/04/21 14:03:28 - 0:00:58 -   restaurant_type: precision:  98.08%; recall:  96.23%; FB1:  97.14  52
+INFO - 07/04/21 14:03:28 - 0:00:58 -       served_dish: precision: 100.00%; recall:  73.68%; FB1:  84.85  14
+INFO - 07/04/21 14:03:28 - 0:00:58 -           service: precision: 100.00%; recall:  96.77%; FB1:  98.36  30
+INFO - 07/04/21 14:03:28 - 0:00:58 -              sort: precision:  89.47%; recall: 100.00%; FB1:  94.44  19
+INFO - 07/04/21 14:03:28 - 0:00:58 -  spatial_relation: precision: 100.00%; recall:  96.43%; FB1:  98.18  54
+INFO - 07/04/21 14:03:28 - 0:00:58 -             state: precision: 100.00%; recall: 100.00%; FB1: 100.00  37
+INFO - 07/04/21 14:03:28 - 0:00:58 -         timeRange: precision:  94.19%; recall:  97.59%; FB1:  95.86  86
+INFO - 07/04/21 14:03:28 - 0:00:58 -             track: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+INFO - 07/04/21 14:03:28 - 0:00:58 -              year: precision: 100.00%; recall: 100.00%; FB1: 100.00  25
+INFO - 07/04/21 14:04:09 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 14:04:09 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 14:04:09 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 14:05:07 - 0:00:59 - processed 4435 tokens with 1341 phrases; found: 1295 phrases; correct: 1233.
+                                     accuracy:  93.95%; (non-O)accuracy:  96.71%; precision:  95.21%; recall:  91.95%; FB1:  93.55
+INFO - 07/04/21 14:05:07 - 0:00:59 -             album: precision:  12.50%; recall:  16.67%; FB1:  14.29  8
+INFO - 07/04/21 14:05:07 - 0:00:59 -            artist: precision:  98.04%; recall:  96.15%; FB1:  97.09  51
+INFO - 07/04/21 14:05:07 - 0:00:59 -       best_rating: precision:  97.78%; recall: 100.00%; FB1:  98.88  45
+INFO - 07/04/21 14:05:07 - 0:00:59 -              city: precision:  96.77%; recall:  96.77%; FB1:  96.77  62
+INFO - 07/04/21 14:05:07 - 0:00:59 - condition_description: precision: 100.00%; recall: 100.00%; FB1: 100.00  13
+INFO - 07/04/21 14:05:07 - 0:00:59 - condition_temperature: precision: 100.00%; recall: 100.00%; FB1: 100.00  24
+INFO - 07/04/21 14:05:07 - 0:00:59 -           country: precision:  92.68%; recall:  92.68%; FB1:  92.68  41
+INFO - 07/04/21 14:05:07 - 0:00:59 -           cuisine: precision:  87.50%; recall:  87.50%; FB1:  87.50  8
+INFO - 07/04/21 14:05:07 - 0:00:59 -  current_location: precision: 100.00%; recall: 100.00%; FB1: 100.00  15
+INFO - 07/04/21 14:05:07 - 0:00:59 -          facility: precision:  80.00%; recall:  80.00%; FB1:  80.00  5
+INFO - 07/04/21 14:05:07 - 0:00:59 -             genre: precision: 100.00%; recall:  37.50%; FB1:  54.55  3
+INFO - 07/04/21 14:05:07 - 0:00:59 -    geographic_poi: precision:  85.71%; recall:  85.71%; FB1:  85.71  7
+INFO - 07/04/21 14:05:07 - 0:00:59 -     location_name: precision: 100.00%; recall: 100.00%; FB1: 100.00  14
+INFO - 07/04/21 14:05:07 - 0:00:59 -        movie_name: precision:  87.18%; recall:  80.95%; FB1:  83.95  39
+INFO - 07/04/21 14:05:07 - 0:00:59 -        movie_type: precision: 100.00%; recall:  90.00%; FB1:  94.74  27
+INFO - 07/04/21 14:05:07 - 0:00:59 -        music_item: precision:  90.00%; recall:  94.74%; FB1:  92.31  40
+INFO - 07/04/21 14:05:07 - 0:00:59 - object_location_type: precision: 100.00%; recall:  91.67%; FB1:  95.65  22
+INFO - 07/04/21 14:05:07 - 0:00:59 -       object_name: precision:  91.60%; recall:  85.11%; FB1:  88.24  131
+INFO - 07/04/21 14:05:07 - 0:00:59 - object_part_of_series_type: precision: 100.00%; recall: 100.00%; FB1: 100.00  13
+INFO - 07/04/21 14:05:07 - 0:00:59 -     object_select: precision: 100.00%; recall:  95.12%; FB1:  97.50  39
+INFO - 07/04/21 14:05:07 - 0:00:59 -       object_type: precision:  98.09%; recall:  95.65%; FB1:  96.86  157
+INFO - 07/04/21 14:05:07 - 0:00:59 - party_size_description: precision: 100.00%; recall: 100.00%; FB1: 100.00  15
+INFO - 07/04/21 14:05:07 - 0:00:59 - party_size_number: precision:  97.50%; recall:  92.86%; FB1:  95.12  40
+INFO - 07/04/21 14:05:07 - 0:00:59 -          playlist: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
+INFO - 07/04/21 14:05:07 - 0:00:59 -               poi: precision:  90.00%; recall:  64.29%; FB1:  75.00  10
+INFO - 07/04/21 14:05:07 - 0:00:59 -       rating_unit: precision: 100.00%; recall: 100.00%; FB1: 100.00  45
+INFO - 07/04/21 14:05:07 - 0:00:59 -      rating_value: precision: 100.00%; recall: 100.00%; FB1: 100.00  80
+INFO - 07/04/21 14:05:07 - 0:00:59 -   restaurant_name: precision:  50.00%; recall:  50.00%; FB1:  50.00  14
+INFO - 07/04/21 14:05:07 - 0:00:59 -   restaurant_type: precision:  98.08%; recall:  89.47%; FB1:  93.58  52
+INFO - 07/04/21 14:05:07 - 0:00:59 -       served_dish: precision:  88.89%; recall:  66.67%; FB1:  76.19  9
+INFO - 07/04/21 14:05:07 - 0:00:59 -           service: precision: 100.00%; recall: 100.00%; FB1: 100.00  30
+INFO - 07/04/21 14:05:07 - 0:00:59 -              sort: precision: 100.00%; recall:  92.86%; FB1:  96.30  13
+INFO - 07/04/21 14:05:07 - 0:00:59 -  spatial_relation: precision:  98.33%; recall:  96.72%; FB1:  97.52  60
+INFO - 07/04/21 14:05:07 - 0:00:59 -             state: precision: 100.00%; recall:  93.75%; FB1:  96.77  45
+INFO - 07/04/21 14:05:07 - 0:00:59 -         timeRange: precision:  95.24%; recall:  96.39%; FB1:  95.81  84
+INFO - 07/04/21 14:05:07 - 0:00:59 -             track: precision:  42.86%; recall:  25.00%; FB1:  31.58  7
+INFO - 07/04/21 14:05:07 - 0:00:59 -              year: precision: 100.00%; recall: 100.00%; FB1: 100.00  25
+INFO - 07/04/21 14:06:14 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 14:06:14 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 14:06:14 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 14:07:13 - 0:00:59 - processed 4560 tokens with 1301 phrases; found: 1275 phrases; correct: 1212.
+                                     accuracy:  95.42%; (non-O)accuracy:  97.30%; precision:  95.06%; recall:  93.16%; FB1:  94.10
+INFO - 07/04/21 14:07:13 - 0:00:59 -             album: precision:  14.29%; recall: 100.00%; FB1:  25.00  7
+INFO - 07/04/21 14:07:13 - 0:00:59 -            artist: precision:  98.21%; recall:  93.22%; FB1:  95.65  56
+INFO - 07/04/21 14:07:13 - 0:00:59 -       best_rating: precision: 100.00%; recall: 100.00%; FB1: 100.00  50
+INFO - 07/04/21 14:07:13 - 0:00:59 -              city: precision:  93.75%; recall:  91.84%; FB1:  92.78  48
+INFO - 07/04/21 14:07:13 - 0:00:59 - condition_description: precision: 100.00%; recall: 100.00%; FB1: 100.00  14
+INFO - 07/04/21 14:07:13 - 0:00:59 - condition_temperature: precision: 100.00%; recall: 100.00%; FB1: 100.00  18
+INFO - 07/04/21 14:07:13 - 0:00:59 -           country: precision:  96.77%; recall:  90.91%; FB1:  93.75  31
+INFO - 07/04/21 14:07:13 - 0:00:59 -           cuisine: precision:  80.00%; recall: 100.00%; FB1:  88.89  10
+INFO - 07/04/21 14:07:13 - 0:00:59 -  current_location: precision: 100.00%; recall: 100.00%; FB1: 100.00  8
+INFO - 07/04/21 14:07:13 - 0:00:59 -          facility: precision:  50.00%; recall:  50.00%; FB1:  50.00  4
+INFO - 07/04/21 14:07:13 - 0:00:59 -             genre: precision:  50.00%; recall:  50.00%; FB1:  50.00  6
+INFO - 07/04/21 14:07:13 - 0:00:59 -    geographic_poi: precision:  87.50%; recall: 100.00%; FB1:  93.33  16
+INFO - 07/04/21 14:07:13 - 0:00:59 -     location_name: precision: 100.00%; recall:  96.77%; FB1:  98.36  30
+INFO - 07/04/21 14:07:13 - 0:00:59 -        movie_name: precision:  94.29%; recall:  84.62%; FB1:  89.19  35
+INFO - 07/04/21 14:07:13 - 0:00:59 -        movie_type: precision: 100.00%; recall: 100.00%; FB1: 100.00  33
+INFO - 07/04/21 14:07:13 - 0:00:59 -        music_item: precision:  93.94%; recall: 100.00%; FB1:  96.88  33
+INFO - 07/04/21 14:07:13 - 0:00:59 - object_location_type: precision: 100.00%; recall: 100.00%; FB1: 100.00  19
+INFO - 07/04/21 14:07:13 - 0:00:59 -       object_name: precision:  89.36%; recall:  89.36%; FB1:  89.36  141
+INFO - 07/04/21 14:07:13 - 0:00:59 - object_part_of_series_type: precision: 100.00%; recall:  94.12%; FB1:  96.97  16
+INFO - 07/04/21 14:07:13 - 0:00:59 -     object_select: precision: 100.00%; recall: 100.00%; FB1: 100.00  37
+INFO - 07/04/21 14:07:13 - 0:00:59 -       object_type: precision:  98.52%; recall:  95.00%; FB1:  96.73  135
+INFO - 07/04/21 14:07:13 - 0:00:59 - party_size_description: precision: 100.00%; recall:  90.91%; FB1:  95.24  10
+INFO - 07/04/21 14:07:13 - 0:00:59 - party_size_number: precision: 100.00%; recall:  97.62%; FB1:  98.80  41
+INFO - 07/04/21 14:07:13 - 0:00:59 -          playlist: precision:  33.33%; recall:  20.00%; FB1:  25.00  3
+INFO - 07/04/21 14:07:13 - 0:00:59 -               poi: precision:  20.00%; recall:  20.00%; FB1:  20.00  5
+INFO - 07/04/21 14:07:13 - 0:00:59 -       rating_unit: precision: 100.00%; recall: 100.00%; FB1: 100.00  42
+INFO - 07/04/21 14:07:13 - 0:00:59 -      rating_value: precision: 100.00%; recall: 100.00%; FB1: 100.00  87
+INFO - 07/04/21 14:07:13 - 0:00:59 -   restaurant_name: precision:  68.75%; recall:  61.11%; FB1:  64.71  16
+INFO - 07/04/21 14:07:13 - 0:00:59 -   restaurant_type: precision:  98.08%; recall:  87.93%; FB1:  92.73  52
+INFO - 07/04/21 14:07:13 - 0:00:59 -       served_dish: precision: 100.00%; recall:  92.86%; FB1:  96.30  13
+INFO - 07/04/21 14:07:13 - 0:00:59 -           service: precision: 100.00%; recall: 100.00%; FB1: 100.00  38
+INFO - 07/04/21 14:07:13 - 0:00:59 -              sort: precision:  93.10%; recall:  90.00%; FB1:  91.53  29
+INFO - 07/04/21 14:07:13 - 0:00:59 -  spatial_relation: precision:  97.87%; recall:  93.88%; FB1:  95.83  47
+INFO - 07/04/21 14:07:13 - 0:00:59 -             state: precision:  97.56%; recall:  88.89%; FB1:  93.02  41
+INFO - 07/04/21 14:07:13 - 0:00:59 -         timeRange: precision:  94.20%; recall:  98.48%; FB1:  96.30  69
+INFO - 07/04/21 14:07:13 - 0:00:59 -             track: precision:  84.62%; recall:  64.71%; FB1:  73.33  13
+INFO - 07/04/21 14:07:13 - 0:00:59 -              year: precision: 100.00%; recall: 100.00%; FB1: 100.00  22
+INFO - 07/04/21 14:08:06 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 14:08:06 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 14:08:06 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 14:09:02 - 0:00:57 - processed 4430 tokens with 1306 phrases; found: 1265 phrases; correct: 1199.
+                                     accuracy:  94.35%; (non-O)accuracy:  96.77%; precision:  94.78%; recall:  91.81%; FB1:  93.27
+INFO - 07/04/21 14:09:02 - 0:00:57 -             album: precision:   9.09%; recall:   4.17%; FB1:   5.71  11
+INFO - 07/04/21 14:09:02 - 0:00:57 -            artist: precision:  94.23%; recall:  96.08%; FB1:  95.15  52
+INFO - 07/04/21 14:09:02 - 0:00:57 -       best_rating: precision: 100.00%; recall: 100.00%; FB1: 100.00  41
+INFO - 07/04/21 14:09:02 - 0:00:57 -              city: precision: 100.00%; recall:  90.00%; FB1:  94.74  54
+INFO - 07/04/21 14:09:02 - 0:00:57 - condition_description: precision: 100.00%; recall: 100.00%; FB1: 100.00  18
+INFO - 07/04/21 14:09:02 - 0:00:57 - condition_temperature: precision: 100.00%; recall: 100.00%; FB1: 100.00  20
+INFO - 07/04/21 14:09:02 - 0:00:57 -           country: precision:  92.00%; recall: 100.00%; FB1:  95.83  50
+INFO - 07/04/21 14:09:02 - 0:00:57 -           cuisine: precision:  87.50%; recall: 100.00%; FB1:  93.33  8
+INFO - 07/04/21 14:09:02 - 0:00:57 -  current_location: precision: 100.00%; recall:  93.33%; FB1:  96.55  14
+INFO - 07/04/21 14:09:02 - 0:00:57 -          facility: precision: 100.00%; recall: 100.00%; FB1: 100.00  7
+INFO - 07/04/21 14:09:02 - 0:00:57 -             genre: precision:  60.00%; recall:  60.00%; FB1:  60.00  5
+INFO - 07/04/21 14:09:02 - 0:00:57 -    geographic_poi: precision: 100.00%; recall: 100.00%; FB1: 100.00  8
+INFO - 07/04/21 14:09:02 - 0:00:57 -     location_name: precision: 100.00%; recall: 100.00%; FB1: 100.00  22
+INFO - 07/04/21 14:09:02 - 0:00:57 -        movie_name: precision:  83.33%; recall:  74.07%; FB1:  78.43  24
+INFO - 07/04/21 14:09:02 - 0:00:57 -        movie_type: precision: 100.00%; recall: 100.00%; FB1: 100.00  25
+INFO - 07/04/21 14:09:02 - 0:00:57 -        music_item: precision: 100.00%; recall:  92.31%; FB1:  96.00  24
+INFO - 07/04/21 14:09:02 - 0:00:57 - object_location_type: precision: 100.00%; recall: 100.00%; FB1: 100.00  12
+INFO - 07/04/21 14:09:02 - 0:00:57 -       object_name: precision:  87.69%; recall:  87.02%; FB1:  87.36  130
+INFO - 07/04/21 14:09:02 - 0:00:57 - object_part_of_series_type: precision: 100.00%; recall: 100.00%; FB1: 100.00  7
+INFO - 07/04/21 14:09:02 - 0:00:57 -     object_select: precision:  93.02%; recall:  95.24%; FB1:  94.12  43
+INFO - 07/04/21 14:09:02 - 0:00:57 -       object_type: precision: 100.00%; recall:  97.83%; FB1:  98.90  135
+INFO - 07/04/21 14:09:02 - 0:00:57 - party_size_description: precision: 100.00%; recall: 100.00%; FB1: 100.00  16
+INFO - 07/04/21 14:09:02 - 0:00:57 - party_size_number: precision: 100.00%; recall: 100.00%; FB1: 100.00  52
+INFO - 07/04/21 14:09:02 - 0:00:57 -          playlist: precision:  14.29%; recall:  11.11%; FB1:  12.50  7
+INFO - 07/04/21 14:09:02 - 0:00:57 -               poi: precision: 100.00%; recall:  87.50%; FB1:  93.33  7
+INFO - 07/04/21 14:09:02 - 0:00:57 -       rating_unit: precision: 100.00%; recall: 100.00%; FB1: 100.00  41
+INFO - 07/04/21 14:09:02 - 0:00:57 -      rating_value: precision: 100.00%; recall:  98.86%; FB1:  99.43  87
+INFO - 07/04/21 14:09:02 - 0:00:57 -   restaurant_name: precision:  62.50%; recall:  76.92%; FB1:  68.97  16
+INFO - 07/04/21 14:09:02 - 0:00:57 -   restaurant_type: precision:  98.36%; recall:  96.77%; FB1:  97.56  61
+INFO - 07/04/21 14:09:02 - 0:00:57 -       served_dish: precision: 100.00%; recall: 100.00%; FB1: 100.00  13
+INFO - 07/04/21 14:09:02 - 0:00:57 -           service: precision: 100.00%; recall:  94.74%; FB1:  97.30  36
+INFO - 07/04/21 14:09:02 - 0:00:57 -              sort: precision: 100.00%; recall:  88.89%; FB1:  94.12  24
+INFO - 07/04/21 14:09:02 - 0:00:57 -  spatial_relation: precision: 100.00%; recall:  97.87%; FB1:  98.92  46
+INFO - 07/04/21 14:09:02 - 0:00:57 -             state: precision: 100.00%; recall:  92.16%; FB1:  95.92  47
+INFO - 07/04/21 14:09:02 - 0:00:57 -         timeRange: precision:  96.25%; recall:  95.06%; FB1:  95.65  80
+INFO - 07/04/21 14:09:02 - 0:00:57 -             track: precision:  12.50%; recall:   7.14%; FB1:   9.09  8
+INFO - 07/04/21 14:09:02 - 0:00:57 -              year: precision: 100.00%; recall: 100.00%; FB1: 100.00  14
+INFO - 07/04/21 14:09:03 - 0:00:58 - Best model has been saved to /home/shenhao/cluster/graphbased/sf_model/1/best_model.pth
+INFO - 07/04/21 14:09:05 - 0:00:59 - Best model opti has been saved to /home/shenhao/cluster/graphbased/sf_model/1/opti.pth
+INFO - 07/04/21 14:09:50 - 0:01:45 - processed 4430 tokens with 1299 phrases; found: 1265 phrases; correct: 1209.
+                                     accuracy:  94.48%; (non-O)accuracy:  96.79%; precision:  95.57%; recall:  93.07%; FB1:  94.31
+INFO - 07/04/21 14:09:50 - 0:01:45 -             album: precision:   0.00%; recall:   0.00%; FB1:   0.00  11
+INFO - 07/04/21 14:09:50 - 0:01:45 -            artist: precision:  98.08%; recall:  96.23%; FB1:  97.14  52
+INFO - 07/04/21 14:09:50 - 0:01:45 -       best_rating: precision: 100.00%; recall: 100.00%; FB1: 100.00  41
+INFO - 07/04/21 14:09:50 - 0:01:45 -              city: precision: 100.00%; recall:  91.53%; FB1:  95.58  54
+INFO - 07/04/21 14:09:50 - 0:01:45 - condition_description: precision: 100.00%; recall: 100.00%; FB1: 100.00  18
+INFO - 07/04/21 14:09:50 - 0:01:45 - condition_temperature: precision: 100.00%; recall: 100.00%; FB1: 100.00  20
+INFO - 07/04/21 14:09:50 - 0:01:45 -           country: precision:  98.00%; recall: 100.00%; FB1:  98.99  50
+INFO - 07/04/21 14:09:50 - 0:01:45 -           cuisine: precision:  87.50%; recall:  70.00%; FB1:  77.78  8
+INFO - 07/04/21 14:09:50 - 0:01:45 -  current_location: precision: 100.00%; recall:  93.33%; FB1:  96.55  14
+INFO - 07/04/21 14:09:50 - 0:01:45 -          facility: precision:  85.71%; recall: 100.00%; FB1:  92.31  7
+INFO - 07/04/21 14:09:50 - 0:01:45 -             genre: precision: 100.00%; recall:  62.50%; FB1:  76.92  5
+INFO - 07/04/21 14:09:50 - 0:01:45 -    geographic_poi: precision:  87.50%; recall:  77.78%; FB1:  82.35  8
+INFO - 07/04/21 14:09:50 - 0:01:45 -     location_name: precision: 100.00%; recall: 100.00%; FB1: 100.00  22
+INFO - 07/04/21 14:09:50 - 0:01:45 -        movie_name: precision:  87.50%; recall:  77.78%; FB1:  82.35  24
+INFO - 07/04/21 14:09:50 - 0:01:45 -        movie_type: precision: 100.00%; recall:  96.15%; FB1:  98.04  25
+INFO - 07/04/21 14:09:50 - 0:01:45 -        music_item: precision: 100.00%; recall:  92.31%; FB1:  96.00  24
+INFO - 07/04/21 14:09:50 - 0:01:45 - object_location_type: precision: 100.00%; recall: 100.00%; FB1: 100.00  12
+INFO - 07/04/21 14:09:50 - 0:01:45 -       object_name: precision:  86.92%; recall:  86.26%; FB1:  86.59  130
+INFO - 07/04/21 14:09:50 - 0:01:45 - object_part_of_series_type: precision: 100.00%; recall: 100.00%; FB1: 100.00  7
+INFO - 07/04/21 14:09:50 - 0:01:45 -     object_select: precision: 100.00%; recall:  97.73%; FB1:  98.85  43
+INFO - 07/04/21 14:09:50 - 0:01:45 -       object_type: precision:  98.52%; recall:  99.25%; FB1:  98.88  135
+INFO - 07/04/21 14:09:50 - 0:01:45 - party_size_description: precision: 100.00%; recall:  88.89%; FB1:  94.12  16
+INFO - 07/04/21 14:09:50 - 0:01:45 - party_size_number: precision:  98.08%; recall: 100.00%; FB1:  99.03  52
+INFO - 07/04/21 14:09:50 - 0:01:45 -          playlist: precision:  42.86%; recall:  60.00%; FB1:  50.00  7
+INFO - 07/04/21 14:09:50 - 0:01:45 -               poi: precision:  57.14%; recall:  57.14%; FB1:  57.14  7
+INFO - 07/04/21 14:09:50 - 0:01:45 -       rating_unit: precision: 100.00%; recall: 100.00%; FB1: 100.00  41
+INFO - 07/04/21 14:09:50 - 0:01:45 -      rating_value: precision: 100.00%; recall: 100.00%; FB1: 100.00  87
+INFO - 07/04/21 14:09:50 - 0:01:45 -   restaurant_name: precision:  68.75%; recall:  73.33%; FB1:  70.97  16
+INFO - 07/04/21 14:09:50 - 0:01:45 -   restaurant_type: precision:  98.36%; recall:  96.77%; FB1:  97.56  61
+INFO - 07/04/21 14:09:50 - 0:01:45 -       served_dish: precision:  92.31%; recall: 100.00%; FB1:  96.00  13
+INFO - 07/04/21 14:09:50 - 0:01:45 -           service: precision: 100.00%; recall:  97.30%; FB1:  98.63  36
+INFO - 07/04/21 14:09:50 - 0:01:45 -              sort: precision: 100.00%; recall:  82.76%; FB1:  90.57  24
+INFO - 07/04/21 14:09:50 - 0:01:45 -  spatial_relation: precision:  97.83%; recall:  93.75%; FB1:  95.74  46
+INFO - 07/04/21 14:09:50 - 0:01:45 -             state: precision: 100.00%; recall:  94.00%; FB1:  96.91  47
+INFO - 07/04/21 14:09:50 - 0:01:45 -         timeRange: precision:  97.50%; recall:  95.12%; FB1:  96.30  80
+INFO - 07/04/21 14:09:50 - 0:01:45 -             track: precision: 100.00%; recall:  33.33%; FB1:  50.00  8
+INFO - 07/04/21 14:09:50 - 0:01:45 -              year: precision: 100.00%; recall: 100.00%; FB1: 100.00  14
+INFO - 07/04/21 14:09:52 - 0:01:46 - Best model has been saved to /home/shenhao/cluster/graphbased/sf_model/1/best_model.pth
+INFO - 07/04/21 14:09:55 - 0:01:49 - Best model opti has been saved to /home/shenhao/cluster/graphbased/sf_model/1/opti.pth
+INFO - 07/04/21 14:10:41 - 0:02:35 - processed 4430 tokens with 1291 phrases; found: 1265 phrases; correct: 1212.
+                                     accuracy:  95.34%; (non-O)accuracy:  97.13%; precision:  95.81%; recall:  93.88%; FB1:  94.84
+INFO - 07/04/21 14:10:41 - 0:02:35 -             album: precision:  18.18%; recall:  33.33%; FB1:  23.53  11
+INFO - 07/04/21 14:10:41 - 0:02:35 -            artist: precision: 100.00%; recall:  96.30%; FB1:  98.11  52
+INFO - 07/04/21 14:10:41 - 0:02:35 -       best_rating: precision: 100.00%; recall: 100.00%; FB1: 100.00  41
+INFO - 07/04/21 14:10:41 - 0:02:35 -              city: precision:  96.30%; recall:  94.55%; FB1:  95.41  54
+INFO - 07/04/21 14:10:41 - 0:02:35 - condition_description: precision: 100.00%; recall: 100.00%; FB1: 100.00  18
+INFO - 07/04/21 14:10:41 - 0:02:35 - condition_temperature: precision: 100.00%; recall: 100.00%; FB1: 100.00  20
+INFO - 07/04/21 14:10:41 - 0:02:35 -           country: precision:  98.00%; recall:  98.00%; FB1:  98.00  50
+INFO - 07/04/21 14:10:41 - 0:02:35 -           cuisine: precision: 100.00%; recall:  80.00%; FB1:  88.89  8
+INFO - 07/04/21 14:10:41 - 0:02:35 -  current_location: precision: 100.00%; recall: 100.00%; FB1: 100.00  14
+INFO - 07/04/21 14:10:41 - 0:02:35 -          facility: precision: 100.00%; recall: 100.00%; FB1: 100.00  7
+INFO - 07/04/21 14:10:41 - 0:02:35 -             genre: precision: 100.00%; recall:  50.00%; FB1:  66.67  5
+INFO - 07/04/21 14:10:41 - 0:02:35 -    geographic_poi: precision:  87.50%; recall:  77.78%; FB1:  82.35  8
+INFO - 07/04/21 14:10:41 - 0:02:35 -     location_name: precision: 100.00%; recall: 100.00%; FB1: 100.00  22
+INFO - 07/04/21 14:10:41 - 0:02:35 -        movie_name: precision:  87.50%; recall:  77.78%; FB1:  82.35  24
+INFO - 07/04/21 14:10:41 - 0:02:35 -        movie_type: precision: 100.00%; recall: 100.00%; FB1: 100.00  25
+INFO - 07/04/21 14:10:41 - 0:02:35 -        music_item: precision: 100.00%; recall:  96.00%; FB1:  97.96  24
+INFO - 07/04/21 14:10:41 - 0:02:35 - object_location_type: precision: 100.00%; recall: 100.00%; FB1: 100.00  12
+INFO - 07/04/21 14:10:41 - 0:02:35 -       object_name: precision:  90.77%; recall:  87.41%; FB1:  89.06  130
+INFO - 07/04/21 14:10:41 - 0:02:35 - object_part_of_series_type: precision: 100.00%; recall: 100.00%; FB1: 100.00  7
+INFO - 07/04/21 14:10:41 - 0:02:35 -     object_select: precision:  97.67%; recall: 100.00%; FB1:  98.82  43
+INFO - 07/04/21 14:10:41 - 0:02:35 -       object_type: precision: 100.00%; recall:  99.26%; FB1:  99.63  135
+INFO - 07/04/21 14:10:41 - 0:02:35 - party_size_description: precision: 100.00%; recall:  94.12%; FB1:  96.97  16
+INFO - 07/04/21 14:10:41 - 0:02:35 - party_size_number: precision:  98.08%; recall: 100.00%; FB1:  99.03  52
+INFO - 07/04/21 14:10:41 - 0:02:35 -          playlist: precision:  42.86%; recall:  50.00%; FB1:  46.15  7
+INFO - 07/04/21 14:10:41 - 0:02:35 -               poi: precision:  57.14%; recall:  66.67%; FB1:  61.54  7
+INFO - 07/04/21 14:10:41 - 0:02:35 -       rating_unit: precision: 100.00%; recall: 100.00%; FB1: 100.00  41
+INFO - 07/04/21 14:10:41 - 0:02:35 -      rating_value: precision: 100.00%; recall: 100.00%; FB1: 100.00  87
+INFO - 07/04/21 14:10:41 - 0:02:35 -   restaurant_name: precision:  62.50%; recall:  66.67%; FB1:  64.52  16
+INFO - 07/04/21 14:10:41 - 0:02:35 -   restaurant_type: precision: 100.00%; recall:  96.83%; FB1:  98.39  61
+INFO - 07/04/21 14:10:41 - 0:02:35 -       served_dish: precision: 100.00%; recall: 100.00%; FB1: 100.00  13
+INFO - 07/04/21 14:10:41 - 0:02:35 -           service: precision: 100.00%; recall:  97.30%; FB1:  98.63  36
+INFO - 07/04/21 14:10:41 - 0:02:35 -              sort: precision:  79.17%; recall:  90.48%; FB1:  84.44  24
+INFO - 07/04/21 14:10:41 - 0:02:35 -  spatial_relation: precision: 100.00%; recall:  97.87%; FB1:  98.92  46
+INFO - 07/04/21 14:10:41 - 0:02:35 -             state: precision: 100.00%; recall:  94.00%; FB1:  96.91  47
+INFO - 07/04/21 14:10:41 - 0:02:35 -         timeRange: precision:  98.75%; recall:  96.34%; FB1:  97.53  80
+INFO - 07/04/21 14:10:41 - 0:02:35 -             track: precision:  50.00%; recall:  26.67%; FB1:  34.78  8
+INFO - 07/04/21 14:10:41 - 0:02:35 -              year: precision: 100.00%; recall:  93.33%; FB1:  96.55  14
+INFO - 07/04/21 14:10:42 - 0:02:36 - Best model has been saved to /home/shenhao/cluster/graphbased/sf_model/1/best_model.pth
+INFO - 07/04/21 14:10:45 - 0:02:39 - Best model opti has been saved to /home/shenhao/cluster/graphbased/sf_model/1/opti.pth
+INFO - 07/04/21 14:11:31 - 0:03:26 - processed 4430 tokens with 1303 phrases; found: 1265 phrases; correct: 1202.
+                                     accuracy:  94.13%; (non-O)accuracy:  96.82%; precision:  95.02%; recall:  92.25%; FB1:  93.61
+INFO - 07/04/21 14:11:31 - 0:03:26 -             album: precision:  36.36%; recall:  21.05%; FB1:  26.67  11
+INFO - 07/04/21 14:11:31 - 0:03:26 -            artist: precision:  98.08%; recall:  96.23%; FB1:  97.14  52
+INFO - 07/04/21 14:11:31 - 0:03:26 -       best_rating: precision: 100.00%; recall: 100.00%; FB1: 100.00  41
+INFO - 07/04/21 14:11:31 - 0:03:26 -              city: precision:  98.15%; recall:  96.36%; FB1:  97.25  54
+INFO - 07/04/21 14:11:31 - 0:03:26 - condition_description: precision:  94.44%; recall: 100.00%; FB1:  97.14  18
+INFO - 07/04/21 14:11:31 - 0:03:26 - condition_temperature: precision: 100.00%; recall: 100.00%; FB1: 100.00  20
+INFO - 07/04/21 14:11:31 - 0:03:26 -           country: precision:  94.00%; recall:  97.92%; FB1:  95.92  50
+INFO - 07/04/21 14:11:31 - 0:03:26 -           cuisine: precision: 100.00%; recall: 100.00%; FB1: 100.00  8
+INFO - 07/04/21 14:11:31 - 0:03:26 -  current_location: precision: 100.00%; recall: 100.00%; FB1: 100.00  14
+INFO - 07/04/21 14:11:31 - 0:03:26 -          facility: precision: 100.00%; recall: 100.00%; FB1: 100.00  7
+INFO - 07/04/21 14:11:31 - 0:03:26 -             genre: precision:  80.00%; recall:  66.67%; FB1:  72.73  5
+INFO - 07/04/21 14:11:31 - 0:03:26 -    geographic_poi: precision: 100.00%; recall: 100.00%; FB1: 100.00  8
+INFO - 07/04/21 14:11:31 - 0:03:26 -     location_name: precision: 100.00%; recall:  95.65%; FB1:  97.78  22
+INFO - 07/04/21 14:11:31 - 0:03:26 -        movie_name: precision:  75.00%; recall:  78.26%; FB1:  76.60  24
+INFO - 07/04/21 14:11:31 - 0:03:26 -        movie_type: precision: 100.00%; recall: 100.00%; FB1: 100.00  25
+INFO - 07/04/21 14:11:31 - 0:03:26 -        music_item: precision: 100.00%; recall:  96.00%; FB1:  97.96  24
+INFO - 07/04/21 14:11:31 - 0:03:26 - object_location_type: precision: 100.00%; recall: 100.00%; FB1: 100.00  12
+INFO - 07/04/21 14:11:31 - 0:03:26 -       object_name: precision:  83.85%; recall:  75.69%; FB1:  79.56  130
+INFO - 07/04/21 14:11:31 - 0:03:26 - object_part_of_series_type: precision: 100.00%; recall: 100.00%; FB1: 100.00  7
+INFO - 07/04/21 14:11:31 - 0:03:26 -     object_select: precision: 100.00%; recall:  95.56%; FB1:  97.73  43
+INFO - 07/04/21 14:11:31 - 0:03:26 -       object_type: precision: 100.00%; recall:  99.26%; FB1:  99.63  135
+INFO - 07/04/21 14:11:31 - 0:03:26 - party_size_description: precision: 100.00%; recall: 100.00%; FB1: 100.00  16
+INFO - 07/04/21 14:11:31 - 0:03:26 - party_size_number: precision:  98.08%; recall: 100.00%; FB1:  99.03  52
+INFO - 07/04/21 14:11:31 - 0:03:26 -          playlist: precision:  42.86%; recall:  42.86%; FB1:  42.86  7
+INFO - 07/04/21 14:11:31 - 0:03:26 -               poi: precision: 100.00%; recall:  77.78%; FB1:  87.50  7
+INFO - 07/04/21 14:11:31 - 0:03:26 -       rating_unit: precision: 100.00%; recall: 100.00%; FB1: 100.00  41
+INFO - 07/04/21 14:11:31 - 0:03:26 -      rating_value: precision: 100.00%; recall: 100.00%; FB1: 100.00  87
+INFO - 07/04/21 14:11:31 - 0:03:26 -   restaurant_name: precision:  62.50%; recall:  66.67%; FB1:  64.52  16
+INFO - 07/04/21 14:11:31 - 0:03:26 -   restaurant_type: precision:  98.36%; recall:  96.77%; FB1:  97.56  61
+INFO - 07/04/21 14:11:31 - 0:03:26 -       served_dish: precision: 100.00%; recall:  92.86%; FB1:  96.30  13
+INFO - 07/04/21 14:11:31 - 0:03:26 -           service: precision: 100.00%; recall:  97.30%; FB1:  98.63  36
+INFO - 07/04/21 14:11:31 - 0:03:26 -              sort: precision: 100.00%; recall:  92.31%; FB1:  96.00  24
+INFO - 07/04/21 14:11:31 - 0:03:26 -  spatial_relation: precision: 100.00%; recall:  97.87%; FB1:  98.92  46
+INFO - 07/04/21 14:11:31 - 0:03:26 -             state: precision: 100.00%; recall:  97.92%; FB1:  98.95  47
+INFO - 07/04/21 14:11:31 - 0:03:26 -         timeRange: precision:  96.25%; recall:  93.90%; FB1:  95.06  80
+INFO - 07/04/21 14:11:31 - 0:03:26 -             track: precision:  12.50%; recall:   9.09%; FB1:  10.53  8
+INFO - 07/04/21 14:11:31 - 0:03:26 -              year: precision: 100.00%; recall: 100.00%; FB1: 100.00  14
+INFO - 07/04/21 14:11:32 - 0:03:27 - Best model has been saved to /home/shenhao/cluster/graphbased/sf_model/1/best_model.pth
+INFO - 07/04/21 14:11:35 - 0:03:30 - Best model opti has been saved to /home/shenhao/cluster/graphbased/sf_model/1/opti.pth
+INFO - 07/04/21 14:12:21 - 0:04:16 - processed 4430 tokens with 1302 phrases; found: 1265 phrases; correct: 1188.
+                                     accuracy:  92.90%; (non-O)accuracy:  96.21%; precision:  93.91%; recall:  91.24%; FB1:  92.56
+INFO - 07/04/21 14:12:21 - 0:04:16 -             album: precision:  18.18%; recall:  33.33%; FB1:  23.53  11
+INFO - 07/04/21 14:12:21 - 0:04:16 -            artist: precision:  94.23%; recall:  92.45%; FB1:  93.33  52
+INFO - 07/04/21 14:12:21 - 0:04:16 -       best_rating: precision: 100.00%; recall: 100.00%; FB1: 100.00  41
+INFO - 07/04/21 14:12:21 - 0:04:16 -              city: precision:  96.30%; recall:  88.14%; FB1:  92.04  54
+INFO - 07/04/21 14:12:21 - 0:04:16 - condition_description: precision: 100.00%; recall: 100.00%; FB1: 100.00  18
+INFO - 07/04/21 14:12:21 - 0:04:16 - condition_temperature: precision: 100.00%; recall: 100.00%; FB1: 100.00  20
+INFO - 07/04/21 14:12:21 - 0:04:16 -           country: precision:  96.00%; recall:  96.00%; FB1:  96.00  50
+INFO - 07/04/21 14:12:21 - 0:04:16 -           cuisine: precision:  87.50%; recall: 100.00%; FB1:  93.33  8
+INFO - 07/04/21 14:12:21 - 0:04:16 -  current_location: precision: 100.00%; recall:  87.50%; FB1:  93.33  14
+INFO - 07/04/21 14:12:21 - 0:04:16 -          facility: precision: 100.00%; recall: 100.00%; FB1: 100.00  7
+INFO - 07/04/21 14:12:21 - 0:04:16 -             genre: precision:  60.00%; recall:  50.00%; FB1:  54.55  5
+INFO - 07/04/21 14:12:21 - 0:04:16 -    geographic_poi: precision: 100.00%; recall: 100.00%; FB1: 100.00  8
+INFO - 07/04/21 14:12:21 - 0:04:16 -     location_name: precision:  95.45%; recall:  87.50%; FB1:  91.30  22
+INFO - 07/04/21 14:12:21 - 0:04:16 -        movie_name: precision:  83.33%; recall:  66.67%; FB1:  74.07  24
+INFO - 07/04/21 14:12:21 - 0:04:16 -        movie_type: precision:  96.00%; recall:  96.00%; FB1:  96.00  25
+INFO - 07/04/21 14:12:21 - 0:04:16 -        music_item: precision: 100.00%; recall:  88.89%; FB1:  94.12  24
+INFO - 07/04/21 14:12:21 - 0:04:16 - object_location_type: precision: 100.00%; recall: 100.00%; FB1: 100.00  12
+INFO - 07/04/21 14:12:21 - 0:04:16 -       object_name: precision:  81.54%; recall:  82.17%; FB1:  81.85  130
+INFO - 07/04/21 14:12:21 - 0:04:16 - object_part_of_series_type: precision: 100.00%; recall: 100.00%; FB1: 100.00  7
+INFO - 07/04/21 14:12:21 - 0:04:16 -     object_select: precision: 100.00%; recall: 100.00%; FB1: 100.00  43
+INFO - 07/04/21 14:12:21 - 0:04:16 -       object_type: precision:  98.52%; recall:  99.25%; FB1:  98.88  135
+INFO - 07/04/21 14:12:21 - 0:04:16 - party_size_description: precision:  93.75%; recall:  88.24%; FB1:  90.91  16
+INFO - 07/04/21 14:12:21 - 0:04:16 - party_size_number: precision:  98.08%; recall: 100.00%; FB1:  99.03  52
+INFO - 07/04/21 14:12:21 - 0:04:16 -          playlist: precision:  42.86%; recall: 100.00%; FB1:  60.00  7
+INFO - 07/04/21 14:12:21 - 0:04:16 -               poi: precision:  85.71%; recall:  60.00%; FB1:  70.59  7
+INFO - 07/04/21 14:12:21 - 0:04:16 -       rating_unit: precision: 100.00%; recall: 100.00%; FB1: 100.00  41
+INFO - 07/04/21 14:12:21 - 0:04:16 -      rating_value: precision: 100.00%; recall: 100.00%; FB1: 100.00  87
+INFO - 07/04/21 14:12:21 - 0:04:16 -   restaurant_name: precision:  62.50%; recall:  66.67%; FB1:  64.52  16
+INFO - 07/04/21 14:12:21 - 0:04:16 -   restaurant_type: precision:  96.72%; recall:  96.72%; FB1:  96.72  61
+INFO - 07/04/21 14:12:21 - 0:04:16 -       served_dish: precision: 100.00%; recall:  92.86%; FB1:  96.30  13
+INFO - 07/04/21 14:12:21 - 0:04:16 -           service: precision: 100.00%; recall:  94.74%; FB1:  97.30  36
+INFO - 07/04/21 14:12:21 - 0:04:16 -              sort: precision:  95.83%; recall:  92.00%; FB1:  93.88  24
+INFO - 07/04/21 14:12:21 - 0:04:16 -  spatial_relation: precision:  95.65%; recall:  91.67%; FB1:  93.62  46
+INFO - 07/04/21 14:12:21 - 0:04:16 -             state: precision:  95.74%; recall:  95.74%; FB1:  95.74  47
+INFO - 07/04/21 14:12:21 - 0:04:16 -         timeRange: precision:  95.00%; recall:  89.41%; FB1:  92.12  80
+INFO - 07/04/21 14:12:21 - 0:04:16 -             track: precision:  75.00%; recall:  25.00%; FB1:  37.50  8
+INFO - 07/04/21 14:12:21 - 0:04:16 -              year: precision: 100.00%; recall: 100.00%; FB1: 100.00  14
+INFO - 07/04/21 14:12:22 - 0:04:17 - Best model has been saved to /home/shenhao/cluster/graphbased/sf_model/1/best_model.pth
+INFO - 07/04/21 14:12:25 - 0:04:20 - Best model opti has been saved to /home/shenhao/cluster/graphbased/sf_model/1/opti.pth
+INFO - 07/04/21 14:13:12 - 0:05:07 - processed 4430 tokens with 1305 phrases; found: 1265 phrases; correct: 1216.
+                                     accuracy:  95.51%; (non-O)accuracy:  97.52%; precision:  96.13%; recall:  93.18%; FB1:  94.63
+INFO - 07/04/21 14:13:12 - 0:05:07 -             album: precision:  18.18%; recall:  12.50%; FB1:  14.81  11
+INFO - 07/04/21 14:13:12 - 0:05:07 -            artist: precision:  90.38%; recall:  92.16%; FB1:  91.26  52
+INFO - 07/04/21 14:13:12 - 0:05:07 -       best_rating: precision: 100.00%; recall: 100.00%; FB1: 100.00  41
+INFO - 07/04/21 14:13:12 - 0:05:07 -              city: precision: 100.00%; recall:  91.53%; FB1:  95.58  54
+INFO - 07/04/21 14:13:12 - 0:05:07 - condition_description: precision: 100.00%; recall: 100.00%; FB1: 100.00  18
+INFO - 07/04/21 14:13:12 - 0:05:07 - condition_temperature: precision: 100.00%; recall: 100.00%; FB1: 100.00  20
+INFO - 07/04/21 14:13:12 - 0:05:07 -           country: precision:  98.00%; recall: 100.00%; FB1:  98.99  50
+INFO - 07/04/21 14:13:12 - 0:05:07 -           cuisine: precision:  87.50%; recall:  87.50%; FB1:  87.50  8
+INFO - 07/04/21 14:13:12 - 0:05:07 -  current_location: precision: 100.00%; recall: 100.00%; FB1: 100.00  14
+INFO - 07/04/21 14:13:12 - 0:05:07 -          facility: precision: 100.00%; recall: 100.00%; FB1: 100.00  7
+INFO - 07/04/21 14:13:12 - 0:05:07 -             genre: precision:  80.00%; recall:  66.67%; FB1:  72.73  5
+INFO - 07/04/21 14:13:12 - 0:05:07 -    geographic_poi: precision: 100.00%; recall:  88.89%; FB1:  94.12  8
+INFO - 07/04/21 14:13:12 - 0:05:07 -     location_name: precision: 100.00%; recall: 100.00%; FB1: 100.00  22
+INFO - 07/04/21 14:13:12 - 0:05:07 -        movie_name: precision:  87.50%; recall:  80.77%; FB1:  84.00  24
+INFO - 07/04/21 14:13:12 - 0:05:07 -        movie_type: precision: 100.00%; recall:  96.15%; FB1:  98.04  25
+INFO - 07/04/21 14:13:12 - 0:05:07 -        music_item: precision: 100.00%; recall:  96.00%; FB1:  97.96  24
+INFO - 07/04/21 14:13:12 - 0:05:07 - object_location_type: precision: 100.00%; recall: 100.00%; FB1: 100.00  12
+INFO - 07/04/21 14:13:12 - 0:05:07 -       object_name: precision:  91.54%; recall:  85.61%; FB1:  88.48  130
+INFO - 07/04/21 14:13:12 - 0:05:07 - object_part_of_series_type: precision: 100.00%; recall: 100.00%; FB1: 100.00  7
+INFO - 07/04/21 14:13:12 - 0:05:07 -     object_select: precision:  97.67%; recall: 100.00%; FB1:  98.82  43
+INFO - 07/04/21 14:13:12 - 0:05:07 -       object_type: precision: 100.00%; recall:  99.26%; FB1:  99.63  135
+INFO - 07/04/21 14:13:12 - 0:05:07 - party_size_description: precision: 100.00%; recall: 100.00%; FB1: 100.00  16
+INFO - 07/04/21 14:13:12 - 0:05:07 - party_size_number: precision:  98.08%; recall: 100.00%; FB1:  99.03  52
+INFO - 07/04/21 14:13:12 - 0:05:07 -          playlist: precision:  71.43%; recall:  71.43%; FB1:  71.43  7
+INFO - 07/04/21 14:13:12 - 0:05:07 -               poi: precision:  85.71%; recall: 100.00%; FB1:  92.31  7
+INFO - 07/04/21 14:13:12 - 0:05:07 -       rating_unit: precision: 100.00%; recall: 100.00%; FB1: 100.00  41
+INFO - 07/04/21 14:13:12 - 0:05:07 -      rating_value: precision: 100.00%; recall: 100.00%; FB1: 100.00  87
+INFO - 07/04/21 14:13:12 - 0:05:07 -   restaurant_name: precision:  62.50%; recall:  62.50%; FB1:  62.50  16
+INFO - 07/04/21 14:13:12 - 0:05:07 -   restaurant_type: precision: 100.00%; recall:  93.85%; FB1:  96.83  61
+INFO - 07/04/21 14:13:12 - 0:05:07 -       served_dish: precision:  92.31%; recall: 100.00%; FB1:  96.00  13
+INFO - 07/04/21 14:13:12 - 0:05:07 -           service: precision: 100.00%; recall:  97.30%; FB1:  98.63  36
+INFO - 07/04/21 14:13:12 - 0:05:07 -              sort: precision: 100.00%; recall:  92.31%; FB1:  96.00  24
+INFO - 07/04/21 14:13:12 - 0:05:07 -  spatial_relation: precision:  97.83%; recall:  95.74%; FB1:  96.77  46
+INFO - 07/04/21 14:13:12 - 0:05:07 -             state: precision: 100.00%; recall:  95.92%; FB1:  97.92  47
+INFO - 07/04/21 14:13:12 - 0:05:07 -         timeRange: precision:  97.50%; recall:  96.30%; FB1:  96.89  80
+INFO - 07/04/21 14:13:12 - 0:05:07 -             track: precision:  62.50%; recall:  29.41%; FB1:  40.00  8
+INFO - 07/04/21 14:13:12 - 0:05:07 -              year: precision: 100.00%; recall: 100.00%; FB1: 100.00  14
+INFO - 07/04/21 14:13:14 - 0:05:08 - Best model has been saved to /home/shenhao/cluster/graphbased/sf_model/1/best_model.pth
+INFO - 07/04/21 14:13:17 - 0:05:11 - Best model opti has been saved to /home/shenhao/cluster/graphbased/sf_model/1/opti.pth
+INFO - 07/04/21 14:14:03 - 0:05:57 - processed 4430 tokens with 1286 phrases; found: 1265 phrases; correct: 1208.
+                                     accuracy:  95.43%; (non-O)accuracy:  97.31%; precision:  95.49%; recall:  93.93%; FB1:  94.71
+INFO - 07/04/21 14:14:03 - 0:05:57 -             album: precision:  27.27%; recall:  27.27%; FB1:  27.27  11
+INFO - 07/04/21 14:14:03 - 0:05:57 -            artist: precision:  96.15%; recall: 100.00%; FB1:  98.04  52
+INFO - 07/04/21 14:14:03 - 0:05:57 -       best_rating: precision: 100.00%; recall: 100.00%; FB1: 100.00  41
+INFO - 07/04/21 14:14:03 - 0:05:57 -              city: precision:  98.15%; recall:  92.98%; FB1:  95.50  54
+INFO - 07/04/21 14:14:03 - 0:05:57 - condition_description: precision: 100.00%; recall: 100.00%; FB1: 100.00  18
+INFO - 07/04/21 14:14:03 - 0:05:57 - condition_temperature: precision: 100.00%; recall: 100.00%; FB1: 100.00  20
+INFO - 07/04/21 14:14:03 - 0:05:57 -           country: precision:  96.00%; recall: 100.00%; FB1:  97.96  50
+INFO - 07/04/21 14:14:03 - 0:05:57 -           cuisine: precision:  75.00%; recall:  85.71%; FB1:  80.00  8
+INFO - 07/04/21 14:14:03 - 0:05:57 -  current_location: precision: 100.00%; recall: 100.00%; FB1: 100.00  14
+INFO - 07/04/21 14:14:03 - 0:05:57 -          facility: precision: 100.00%; recall: 100.00%; FB1: 100.00  7
+INFO - 07/04/21 14:14:03 - 0:05:57 -             genre: precision:  60.00%; recall:  75.00%; FB1:  66.67  5
+INFO - 07/04/21 14:14:03 - 0:05:57 -    geographic_poi: precision: 100.00%; recall: 100.00%; FB1: 100.00  8
+INFO - 07/04/21 14:14:03 - 0:05:57 -     location_name: precision: 100.00%; recall: 100.00%; FB1: 100.00  22
+INFO - 07/04/21 14:14:03 - 0:05:57 -        movie_name: precision:  83.33%; recall:  76.92%; FB1:  80.00  24
+INFO - 07/04/21 14:14:03 - 0:05:57 -        movie_type: precision:  96.00%; recall:  96.00%; FB1:  96.00  25
+INFO - 07/04/21 14:14:03 - 0:05:57 -        music_item: precision: 100.00%; recall: 100.00%; FB1: 100.00  24
+INFO - 07/04/21 14:14:03 - 0:05:57 - object_location_type: precision: 100.00%; recall: 100.00%; FB1: 100.00  12
+INFO - 07/04/21 14:14:03 - 0:05:57 -       object_name: precision:  87.69%; recall:  84.44%; FB1:  86.04  130
+INFO - 07/04/21 14:14:03 - 0:05:57 - object_part_of_series_type: precision: 100.00%; recall: 100.00%; FB1: 100.00  7
+INFO - 07/04/21 14:14:03 - 0:05:57 -     object_select: precision:  95.35%; recall:  95.35%; FB1:  95.35  43
+INFO - 07/04/21 14:14:03 - 0:05:57 -       object_type: precision: 100.00%; recall:  99.26%; FB1:  99.63  135
+INFO - 07/04/21 14:14:03 - 0:05:57 - party_size_description: precision: 100.00%; recall: 100.00%; FB1: 100.00  16
+INFO - 07/04/21 14:14:03 - 0:05:57 - party_size_number: precision:  98.08%; recall: 100.00%; FB1:  99.03  52
+INFO - 07/04/21 14:14:03 - 0:05:57 -          playlist: precision:  85.71%; recall:  50.00%; FB1:  63.16  7
+INFO - 07/04/21 14:14:03 - 0:05:57 -               poi: precision:  71.43%; recall:  71.43%; FB1:  71.43  7
+INFO - 07/04/21 14:14:03 - 0:05:57 -       rating_unit: precision: 100.00%; recall: 100.00%; FB1: 100.00  41
+INFO - 07/04/21 14:14:03 - 0:05:57 -      rating_value: precision: 100.00%; recall: 100.00%; FB1: 100.00  87
+INFO - 07/04/21 14:14:03 - 0:05:57 -   restaurant_name: precision:  68.75%; recall:  73.33%; FB1:  70.97  16
+INFO - 07/04/21 14:14:03 - 0:05:57 -   restaurant_type: precision:  98.36%; recall:  95.24%; FB1:  96.77  61
+INFO - 07/04/21 14:14:03 - 0:05:57 -       served_dish: precision: 100.00%; recall:  81.25%; FB1:  89.66  13
+INFO - 07/04/21 14:14:03 - 0:05:57 -           service: precision: 100.00%; recall:  97.30%; FB1:  98.63  36
+INFO - 07/04/21 14:14:03 - 0:05:57 -              sort: precision: 100.00%; recall:  92.31%; FB1:  96.00  24
+INFO - 07/04/21 14:14:03 - 0:05:57 -  spatial_relation: precision:  97.83%; recall:  95.74%; FB1:  96.77  46
+INFO - 07/04/21 14:14:03 - 0:05:57 -             state: precision: 100.00%; recall:  97.92%; FB1:  98.95  47
+INFO - 07/04/21 14:14:03 - 0:05:57 -         timeRange: precision:  98.75%; recall:  97.53%; FB1:  98.14  80
+INFO - 07/04/21 14:14:03 - 0:05:57 -             track: precision:  37.50%; recall:  30.00%; FB1:  33.33  8
+INFO - 07/04/21 14:14:03 - 0:05:57 -              year: precision: 100.00%; recall: 100.00%; FB1: 100.00  14
+INFO - 07/04/21 14:14:04 - 0:05:58 - Best model has been saved to /home/shenhao/cluster/graphbased/sf_model/1/best_model.pth
+INFO - 07/04/21 14:14:07 - 0:06:01 - Best model opti has been saved to /home/shenhao/cluster/graphbased/sf_model/1/opti.pth
+INFO - 07/04/21 14:14:53 - 0:06:47 - processed 4430 tokens with 1287 phrases; found: 1265 phrases; correct: 1219.
+                                     accuracy:  95.46%; (non-O)accuracy:  97.49%; precision:  96.36%; recall:  94.72%; FB1:  95.53
+INFO - 07/04/21 14:14:53 - 0:06:47 -             album: precision:  18.18%; recall:  22.22%; FB1:  20.00  11
+INFO - 07/04/21 14:14:53 - 0:06:47 -            artist: precision: 100.00%; recall:  98.11%; FB1:  99.05  52
+INFO - 07/04/21 14:14:53 - 0:06:47 -       best_rating: precision: 100.00%; recall: 100.00%; FB1: 100.00  41
+INFO - 07/04/21 14:14:53 - 0:06:47 -              city: precision: 100.00%; recall:  94.74%; FB1:  97.30  54
+INFO - 07/04/21 14:14:53 - 0:06:47 - condition_description: precision: 100.00%; recall:  94.74%; FB1:  97.30  18
+INFO - 07/04/21 14:14:53 - 0:06:47 - condition_temperature: precision: 100.00%; recall: 100.00%; FB1: 100.00  20
+INFO - 07/04/21 14:14:53 - 0:06:47 -           country: precision:  96.00%; recall:  97.96%; FB1:  96.97  50
+INFO - 07/04/21 14:14:53 - 0:06:47 -           cuisine: precision:  87.50%; recall:  77.78%; FB1:  82.35  8
+INFO - 07/04/21 14:14:53 - 0:06:47 -  current_location: precision: 100.00%; recall: 100.00%; FB1: 100.00  14
+INFO - 07/04/21 14:14:53 - 0:06:47 -          facility: precision: 100.00%; recall:  87.50%; FB1:  93.33  7
+INFO - 07/04/21 14:14:53 - 0:06:47 -             genre: precision:  60.00%; recall:  60.00%; FB1:  60.00  5
+INFO - 07/04/21 14:14:53 - 0:06:47 -    geographic_poi: precision: 100.00%; recall: 100.00%; FB1: 100.00  8
+INFO - 07/04/21 14:14:53 - 0:06:47 -     location_name: precision: 100.00%; recall: 100.00%; FB1: 100.00  22
+INFO - 07/04/21 14:14:53 - 0:06:47 -        movie_name: precision:  83.33%; recall:  83.33%; FB1:  83.33  24
+INFO - 07/04/21 14:14:53 - 0:06:47 -        movie_type: precision: 100.00%; recall: 100.00%; FB1: 100.00  25
+INFO - 07/04/21 14:14:53 - 0:06:47 -        music_item: precision: 100.00%; recall:  96.00%; FB1:  97.96  24
+INFO - 07/04/21 14:14:53 - 0:06:47 - object_location_type: precision: 100.00%; recall: 100.00%; FB1: 100.00  12
+INFO - 07/04/21 14:14:53 - 0:06:47 -       object_name: precision:  91.54%; recall:  88.81%; FB1:  90.15  130
+INFO - 07/04/21 14:14:53 - 0:06:47 - object_part_of_series_type: precision: 100.00%; recall: 100.00%; FB1: 100.00  7
+INFO - 07/04/21 14:14:53 - 0:06:47 -     object_select: precision: 100.00%; recall: 100.00%; FB1: 100.00  43
+INFO - 07/04/21 14:14:53 - 0:06:47 -       object_type: precision: 100.00%; recall:  99.26%; FB1:  99.63  135
+INFO - 07/04/21 14:14:53 - 0:06:47 - party_size_description: precision: 100.00%; recall: 100.00%; FB1: 100.00  16
+INFO - 07/04/21 14:14:53 - 0:06:47 - party_size_number: precision: 100.00%; recall: 100.00%; FB1: 100.00  52
+INFO - 07/04/21 14:14:53 - 0:06:47 -          playlist: precision:  71.43%; recall:  55.56%; FB1:  62.50  7
+INFO - 07/04/21 14:14:53 - 0:06:47 -               poi: precision:  85.71%; recall:  75.00%; FB1:  80.00  7
+INFO - 07/04/21 14:14:53 - 0:06:47 -       rating_unit: precision: 100.00%; recall: 100.00%; FB1: 100.00  41
+INFO - 07/04/21 14:14:53 - 0:06:47 -      rating_value: precision: 100.00%; recall: 100.00%; FB1: 100.00  87
+INFO - 07/04/21 14:14:53 - 0:06:47 -   restaurant_name: precision:  75.00%; recall:  75.00%; FB1:  75.00  16
+INFO - 07/04/21 14:14:53 - 0:06:47 -   restaurant_type: precision:  96.72%; recall:  98.33%; FB1:  97.52  61
+INFO - 07/04/21 14:14:53 - 0:06:47 -       served_dish: precision:  92.31%; recall: 100.00%; FB1:  96.00  13
+INFO - 07/04/21 14:14:53 - 0:06:47 -           service: precision: 100.00%; recall:  97.30%; FB1:  98.63  36
+INFO - 07/04/21 14:14:53 - 0:06:47 -              sort: precision:  95.83%; recall:  92.00%; FB1:  93.88  24
+INFO - 07/04/21 14:14:53 - 0:06:47 -  spatial_relation: precision:  97.83%; recall:  95.74%; FB1:  96.77  46
+INFO - 07/04/21 14:14:53 - 0:06:47 -             state: precision: 100.00%; recall:  94.00%; FB1:  96.91  47
+INFO - 07/04/21 14:14:53 - 0:06:47 -         timeRange: precision:  97.50%; recall:  97.50%; FB1:  97.50  80
+INFO - 07/04/21 14:14:53 - 0:06:47 -             track: precision:  62.50%; recall:  38.46%; FB1:  47.62  8
+INFO - 07/04/21 14:14:53 - 0:06:47 -              year: precision: 100.00%; recall: 100.00%; FB1: 100.00  14
+INFO - 07/04/21 14:14:54 - 0:06:48 - Best model has been saved to /home/shenhao/cluster/graphbased/sf_model/1/best_model.pth
+INFO - 07/04/21 14:14:56 - 0:06:51 - Best model opti has been saved to /home/shenhao/cluster/graphbased/sf_model/1/opti.pth
+INFO - 07/04/21 14:41:24 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 14:41:24 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 14:41:24 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 14:44:34 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 14:44:34 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 14:44:34 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 14:45:16 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 14:45:16 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 14:45:16 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 14:52:59 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 14:52:59 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 14:52:59 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 14:58:32 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 14:58:32 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 14:58:32 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 15:00:06 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 15:00:06 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 15:00:06 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 15:09:02 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 15:09:02 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 15:09:02 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 15:09:58 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 15:09:58 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 15:09:58 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 15:41:47 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 15:41:47 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 15:41:47 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 15:42:51 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 15:42:51 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 15:42:51 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 15:43:26 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 15:43:26 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 15:43:26 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 15:43:39 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 15:43:39 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 15:43:39 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 15:45:47 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 15:45:47 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 15:45:47 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 15:46:34 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 15:46:34 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 15:46:34 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 15:48:19 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 15:48:19 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 15:48:19 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 15:50:02 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 15:50:02 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 15:50:02 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 15:51:43 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 15:51:43 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 15:51:43 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 15:53:39 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 15:53:39 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 15:53:39 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 15:54:29 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 15:54:29 - 0:00:00 - batch_size: 32
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 15:54:29 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     
+INFO - 07/04/21 15:56:58 - 0:00:00 - ============ Initialized logger ============
+INFO - 07/04/21 15:56:58 - 0:00:00 - batch_size: 64
+                                     bert_path: /home/shenhao/bert-base-uncased
+                                     device: cuda:0
+                                     domain: atp
+                                     dropout: 0.3
+                                     dump_path: /home/shenhao/cluster/graphbased/sf_model/1
+                                     emb_dim: 768
+                                     epoch: 8
+                                     exp_id: 1
+                                     exp_name: sf_model
+                                     file_path: /home/shenhao/data/coachdata/snips
+                                     log_file: /home/shenhao/cluster/graphbased/log
+                                     logger_filename: cross-domain-slu.log
+                                     lr: 0.0001
+                                     model_saved_path: /home/shenhao/cluster/graphbased
+                                     tgt_domain: 
+INFO - 07/04/21 15:56:58 - 0:00:00 - The experiment will be stored in /home/shenhao/cluster/graphbased/sf_model/1
+                                     

@@ -126,7 +126,7 @@ def pad(batch):
 
     f = torch.LongTensor
 
-    return words, f(x), is_heads, f(heads), tags, f(y), domains, seqlens, 
+    return words, f(x), is_heads, f(heads), tags, f(y), domains, seqlens 
 
 class tgtDataset(NerDataset):
     def __init__(self, raw_data, bert_path):
@@ -152,7 +152,7 @@ class tgtDataset(NerDataset):
         assert len(x) == len(is_heads)
         seq_len = len(x)
 
-        return x, is_heads, rep_index, triple_pair, seq_len
+        return x, is_heads, rep_idx, triple_pair, seq_len
 
 def pad_tgt(batch):
     f = lambda x : [sample[x] for sample in batch]
